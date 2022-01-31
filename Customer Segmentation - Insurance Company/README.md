@@ -1,8 +1,7 @@
 <h1>ABC Insurance: Customer Segmentation with K-Means Clustering</h1> 
 
 <h2>Introduction</h2>
-Customers are different. Their preferences, buying power, and other characteristics can differ over a wide spectrum (Onnen, Heiko. 2021). While mass marketing tactics are still able to get results, the assumption that simply everyone will be interested in buying what a company is selling is a time-consuming, inefficient, and expensive strategy (Upland Software). Common characteristics in customer segments can guide how a company markets to individual segments and what products it promotes to them, tailoring the marketing efforts to various audiences’ subsets. This process is called Customer Segmentation.<br>
-
+Customers are different. Their preferences, buying power, and other characteristics can differ over a wide spectrum (Onnen, Heiko. 2021). While mass marketing tactics are still able to get results, the assumption that simply everyone will be interested in buying what a company is selling is a time-consuming, inefficient, and expensive strategy (Upland Software). Common characteristics in customer segments can guide how a company markets to individual segments and what products it promotes to them, tailoring the marketing efforts to various audiences’ subsets. This process is called Customer Segmentation.<br><br>
 
 Customer segmentation is the process of dividing customers and prospects into different groups, each of which share characteristics and behave similarly within a segment but look and behave differently across multiple segments. Customers can be segmented based on demographics (age, gender, income), according to the characteristics that influences purchasing decisions, or grouped based on where they are located, among others.<br>
 
