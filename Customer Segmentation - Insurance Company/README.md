@@ -5,7 +5,7 @@
 
 <p>Customer segmentation is the process of dividing customers and prospects into different groups, each of which share characteristics and behave similarly within a segment but look and behave differently across multiple segments. Customers can be segmented based on demographics (age, gender, income), according to the characteristics that influences purchasing decisions, or grouped based on where they are located, among others.</p>
 
-<p>With that said, this project is concerned with developing different customer profiles for the Marketing Department of an insurance company called ABC Insurance Limited, using the data mining clustering algorithm K-means in Python following the CRISP-DM (Cross Industry Standard Process for Data Mining) model. This tool allows a Customer Segmentation such that it will be possible for the marketing department of the company to better understand all the different customer profiles.</p><br>
+<p>With that said, this project is concerned with developing different customer profiles for the Marketing Department of an insurance company called ABC Insurance Limited, using the data mining clustering algorithm K-means in Python following the CRISP-DM (Cross Industry Standard Process for Data Mining) model. This tool allows a Customer Segmentation such that it will be possible for the marketing department of the company to better understand all the different customer profiles.</p>
 
 <h2>Motivation</h2>
 This project is part of the Master's Program in Statistics at @NovaIms, where we were challenged to segment customers using a database from an insurance company. 
