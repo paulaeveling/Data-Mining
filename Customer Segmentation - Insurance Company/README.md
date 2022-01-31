@@ -5,11 +5,11 @@
 
 <p>Customer segmentation is the process of dividing customers and prospects into different groups, each of which share characteristics and behave similarly within a segment but look and behave differently across multiple segments. Customers can be segmented based on demographics (age, gender, income), according to the characteristics that influences purchasing decisions, or grouped based on where they are located, among others.</p>
 
-<p>With that said, this project is concerned with developing different customer profiles for the Marketing Department of an insurance company called ABC Insurance Limited, using the data mining clustering algorithm K-means in Python following the CRISP-DM (Cross Industry Standard Process for Data Mining) model. This tool allows a Customer Segmentation such that it will be possible for the marketing department of the company to better understand all the different customer profiles.</p>
+<p>With that said, this project is concerned with developing different customer profiles for the Marketing Department of an insurance company called ABC Insurance Limited, using the data mining clustering algorithm K-means in Python following the CRISP-DM (Cross Industry Standard Process for Data Mining) model. This tool allows a Customer Segmentation such that it will be possible for the marketing department of the company to better understand all the different customer profiles.</p><br>
 
 <h2>Motivation</h2>
 This project is part of the Master's Program in Statistics at @NovaIms, where we were challenged to segment customers using a database from an insurance company. 
-I am passionate about Data Mining, and so are my colleagues that embraced this adventure with me. I trully hope this study can contribute with your personal goals. 
+I am passionate about Data Mining, and so are my colleagues that embraced this adventure with me. I trully hope this study can contribute with your personal projects.<br> 
 
 <h2>Technologies Used</h2>
 - Python in Jupyter Notebook<br>
@@ -17,4 +17,4 @@ I am passionate about Data Mining, and so are my colleagues that embraced this a
 - K-Means Clustering<br>
 
 
-<p><br>Please feel free to contribute with this project :slightly_smiling_face: </p>
+<p><br><br>Please feel free to contribute with this project :slightly_smiling_face: </p>
