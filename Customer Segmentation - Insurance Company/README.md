@@ -17,4 +17,4 @@ I am passionate about Data Mining, and so are my colleagues that embraced this a
 - K-Means Clustering<br>
 
 
-Please feel free to contribute with this project :)
+<p>Please feel free to contribute with this project :slightly_smiling_face: </p>
