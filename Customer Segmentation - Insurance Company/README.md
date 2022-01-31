@@ -15,3 +15,6 @@ I am passionate about Data Mining, and so are my colleagues that embraced this a
 - Python in Jupyter Notebook<br>
 - CRISP-DM Methodology (Cross-industry standard process for data mining)<br>
 - K-Means Clustering<br>
+
+
+Please feel free to contribute with this project :)
