@@ -9,7 +9,7 @@
 
 <h2>Motivation</h2>
 This project is part of the Master's Program in Statistics at @NovaIms, where we were challenged to segment customers using a database from an insurance company. 
-I am passionate about Data Mining, and so are my colleagues that embraced this adventure with me. I trully hope this study can contribute with your personal projects.<br> 
+Plus, I am passionate about Data Mining, and so are my colleagues that embraced this adventure with me. I trully hope this study can contribute with your personal projects.<br> 
 
 <h2>Technologies Used</h2>
 - Python in Jupyter Notebook<br>
