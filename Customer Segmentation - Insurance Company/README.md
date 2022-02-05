@@ -22,5 +22,3 @@ This project is part of the Master's Program in Statistics at @NovaIms.<br>
 - Paula Eveling<br>
 - Catia Simas<br>
 - Zukiswa Mdingi<br>
-
-<p><br><br>Please feel free to contribute with this project :slightly_smiling_face: </p>
