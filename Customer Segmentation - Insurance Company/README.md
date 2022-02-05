@@ -15,4 +15,9 @@
 - Exploratory Data Analysis<br>
 
 
+<h2>Authors</h2>
+- Paula Eveling<br>
+- Catia Simas<br>
+- Zukiswa Mdingi<br>
+
 <p><br><br>Please feel free to contribute with this project :slightly_smiling_face: </p>
