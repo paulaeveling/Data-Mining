@@ -16,6 +16,9 @@
 
 
 <h2>Authors</h2>
+
+This project is part of the Master's Program in Statistics at @NovaIms.<br>
+
 - Paula Eveling<br>
 - Catia Simas<br>
 - Zukiswa Mdingi<br>
