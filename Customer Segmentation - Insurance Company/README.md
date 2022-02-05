@@ -12,6 +12,7 @@
 - CRISP-DM Methodology (Cross-industry standard process for data mining)<br>
 - K-Means Clustering<br>
 - Princiapal Component Analysis<br>
+- Exploratory Data Analysis<br>
 
 
 <p><br><br>Please feel free to contribute with this project :slightly_smiling_face: </p>
