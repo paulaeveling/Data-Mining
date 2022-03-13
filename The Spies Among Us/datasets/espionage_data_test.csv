@@ -1,0 +1,1502 @@
+﻿ID;ID_ORIGINAL;Gender;Foreign_Citizenship;Age;Frequent_Traveler;Cellphone_Usage;Household_Size;Satisfaction_Level;Occupation;Political_Participation;Social_Person;Area_Residence;Military_Service;Household_Income
+7499;464281;Female;No;39;Yes;Low;1;4;Private company;Unknown;No;City;Never;7000
+7500;466423;Female;No;42;No;Low;1;5;Nothing;No involvement;Yes;City;Never;17088
+7501;462396;Male;Yes;50;Yes;Average;2;3;Government;No involvement;No;City;Never;7000
+7502;459896;Female;Yes;40;Yes;Low;2;2;Private company;Unknown;No;City;Never;18349
+7503;466340;Male;No;19;No;Low;3;1;Private company;Some involvement;Yes;Country-side;Never;8261
+7504;459617;Male;No;31;Yes;Low;5;1;Private company;Strong involvement;No;City;Never;7000
+7505;466866;Male;Yes;27;No;Average;2;2;Private company;Strong involvement;No;City;Never;24654
+7506;466827;Male;Yes;37;No;Average;4;1;Private company;Strong involvement;Yes;City;Never;7000
+7507;463211;Male;Yes;68;Yes;Low;1;7;Self-employed;No involvement;Yes;City;Intervention in Libya;17088
+7508;461737;Female;Yes;48;Yes;Average;6;1;Government;No involvement;Yes;Country-side;Never;8261
+7509;461588;Male;No;33;Yes;Low;4;1;Student;No involvement;Yes;City;Never;7000
+7510;463410;Male;Yes;37;No;Average;2;2;Government;No involvement;No;City;Never;7000
+7511;462054;Male;No;25;Yes;Low;;;Private company;Some involvement;Yes;Country-side;Never;7000
+7512;467243;Male;No;26;Yes;Low;3;1;Private company;Some involvement;No;City;Never;8261
+7513;461078;Female;No;26;No;Low;6;1;Nothing;No involvement;Yes;City;Never;7000
+7514;461872;Female;Yes;77;Yes;High;2;4;Self-employed;No involvement;No;City;Never;7000
+7515;460474;Female;Yes;40;No;Average;5;1;Nothing;No involvement;Yes;Country-side;Never;18349
+7516;467346;Male;Yes;37;Yes;Average;3;2;Private company;Unknown;No;City;Never;8261
+7517;462025;Male;No;20;No;Low;3;1;Private company;Some involvement;Yes;Country-side;Never;9522
+7518;461345;Male;No;27;No;Low;3;1;Government;No involvement;No;City;Never;7000
+7519;465246;Male;No;21;No;Low;5;1;Private company;Some involvement;Yes;Country-side;Never;8261
+7520;458993;Male;Yes;29;No;Low;2;2;Government;No involvement;Yes;Country-side;Never;7000
+7521;465307;Female;Yes;61;Yes;Average;3;3;Private company;Unknown;Yes;Country-side;Never;7000
+7522;462721;Female;Yes;72;No;High;3;3;Self-employed;No involvement;No;City;Never;8261
+7523;459947;Female;No;37;Yes;Low;1;4;Private company;Unknown;No;City;Never;10783
+7524;466341;Male;Yes;48;Yes;Average;2;3;Private company;Unknown;Yes;City;Intervention in Libya;7000
+7525;461712;Female;Yes;42;Yes;Low;2;3;Private company;Unknown;No;City;Never;8261
+7526;461586;Male;No;36;Yes;Low;3;2;Private company;Unknown;Yes;City;Never;14566
+7527;465371;Female;No;43;Yes;Low;1;5;Private company;Unknown;No;City;Never;7000
+7528;466575;Female;Yes;57;Yes;Average;3;2;Private company;Unknown;No;City;Never;15827
+7529;462052;Male;Yes;51;Yes;Low;2;3;Private company;Unknown;No;City;Never;8261
+7530;460830;Male;Yes;40;No;Average;5;1;Private company;Strong involvement;Yes;City;Never;9522
+7531;464567;Male;No;33;Yes;Low;4;1;Private company;Some involvement;Yes;City;Never;17088
+7532;465472;Female;Yes;87;No;High;3;3;Private company;Strong involvement;No;City;Never;7000
+7533;460561;Female;No;39;No;Low;1;4;Private company;No involvement;Yes;City;Never;14566
+7534;459463;Female;Yes;62;Yes;Average;3;3;Private company;Unknown;No;City;Never;7000
+7535;463907;Female;No;33;Yes;Low;5;1;Government;No involvement;No;City;Never;7000
+7536;459114;Male;Yes;57;Yes;Average;2;3;Private company;Unknown;No;City;Never;8261
+7537;460882;Male;No;22;No;Low;2;2;Private company;Some involvement;Yes;City;Never;7000
+7538;461498;Female;No;26;No;Low;4;1;Government;No involvement;Yes;City;Never;8261
+7539;463209;Female;No;51;Yes;Low;1;6;Private company;Unknown;No;City;Never;7000
+7540;459673;Female;Yes;83;Yes;Low;1;9;Self-employed;No involvement;No;City;Never;8261
+7541;465870;Male;No;40;Yes;Low;2;2;Private company;Unknown;No;City;Never;13305
+7542;461740;Male;Yes;80;Yes;Low;1;8;Self-employed;No involvement;No;City;Never;8261
+7543;459792;Male;Yes;42;Yes;Low;3;2;Private company;Unknown;No;City;Never;14566
+7544;459776;Male;Yes;75;Yes;Low;1;8;Self-employed;No involvement;No;City;Never;9522
+7545;464238;Male;Yes;87;Yes;High;2;5;Self-employed;No involvement;No;City;Never;7000
+7546;460507;Male;No;30;No;Low;4;1;Government;No involvement;Yes;City;Never;8261
+7547;464245;Female;Yes;89;Yes;Low;1;9;Self-employed;No involvement;No;City;Never;9522
+7548;465769;Male;No;25;Yes;Low;4;1;Private company;Some involvement;No;City;Never;18349
+7549;459093;Female;Yes;39;Yes;Average;2;2;Government;No involvement;;;;17088
+7550;459064;Male;Yes;26;No;High;4;1;Public company;No involvement;No;City;Never;13305
+7551;466812;Male;No;31;No;Low;1;4;Nothing;No involvement;No;City;Never;24654
+7552;464266;Male;No;28;No;Low;3;1;Government;No involvement;No;City;Never;17088
+7553;464640;Female;No;28;No;Low;5;1;Student;No involvement;Yes;Country-side;Never;7000
+7554;459171;Male;Yes;40;Yes;Average;2;2;Private company;Unknown;No;City;Never;8261
+7555;466960;Male;Yes;40;Yes;Low;2;2;Private company;Unknown;No;City;Never;8261
+7556;459407;Female;No;37;Yes;Low;3;2;Government;No involvement;No;City;Never;7000
+7557;459302;Female;Yes;57;Yes;Average;4;2;Private company;Unknown;Yes;City;Never;7000
+7558;466852;Female;No;23;No;Low;4;1;Student;No involvement;No;City;Never;12044
+7559;463933;Male;Yes;47;No;Low;7;1;Public company;No involvement;Yes;Country-side;Never;7000
+7560;464000;Female;No;32;No;Low;5;1;Private company;Some involvement;Yes;City;Intervention in Iraq;7000
+7561;463037;Male;Yes;57;Yes;Average;4;2;Private company;Strong involvement;No;City;Never;8261
+7562;461869;Male;Yes;87;Yes;Low;1;9;Self-employed;No involvement;No;City;Never;7000
+7563;459997;Male;No;43;Yes;Low;2;3;Private company;Strong involvement;Yes;Country-side;Never;8261
+7564;461448;Male;Yes;69;Yes;High;3;3;Government;No involvement;No;City;Never;7000
+7565;461273;Male;Yes;73;Yes;High;4;2;Private company;Strong involvement;No;City;Never;8261
+7566;460119;Male;No;26;Yes;Low;4;1;Private company;Some involvement;No;City;Never;7000
+7567;462273;Female;No;41;Yes;Low;;;Private company;Strong involvement;No;City;Never;8261
+7568;464464;Male;No;28;No;Low;4;1;Private company;Some involvement;Yes;City;Never;7000
+7569;460503;Male;No;41;Yes;Low;2;3;Private company;Strong involvement;Yes;City;Never;7000
+7570;459913;Female;Yes;51;No;High;3;2;Private company;Some involvement;Yes;Country-side;Never;7000
+7571;465378;Female;Yes;57;Yes;Average;;;Private company;Unknown;No;City;Never;12044
+7572;460606;Male;No;20;No;Low;5;1;Private company;Some involvement;Yes;City;Intervention in Iraq;7000
+7573;463215;Female;Yes;37;Yes;High;2;2;Private company;No involvement;No;City;Never;7000
+7574;462625;Male;No;32;Yes;Low;3;2;Private company;Unknown;Yes;Country-side;Never;7000
+7575;459159;Male;Yes;80;Yes;Low;1;8;Self-employed;No involvement;No;City;Never;8261
+7576;460628;Male;Yes;27;Yes;Low;;;Private company;Strong involvement;Yes;City;Never;7000
+7577;461483;Female;No;28;Yes;Low;4;1;Government;No involvement;No;City;Never;8261
+7578;467630;Male;Yes;85;No;Low;1;9;Self-employed;No involvement;No;City;Never;7000
+7579;466724;Male;No;38;Yes;Low;2;2;Private company;Unknown;No;City;Never;7000
+7580;459400;Female;Yes;84;No;High;2;5;Self-employed;No involvement;No;City;Never;7000
+7581;459326;Male;Yes;35;No;Low;5;1;Private company;Some involvement;No;City;Never;8261
+7582;462933;Male;Yes;55;;High;5;2;Private company;Strong involvement;No;City;Never;7000
+7583;459426;Male;No;23;No;Low;4;1;;;No;City;Never;8261
+7584;466861;Female;No;21;No;Low;7;1;Private company;Some involvement;Yes;City;Never;17088
+7585;461044;Male;No;21;No;Low;5;1;Private company;Some involvement;Yes;Country-side;Never;8261
+7586;461976;Female;Yes;37;Yes;Average;2;2;Private company;Strong involvement;Yes;City;Never;13305
+7587;459887;Male;Yes;46;No;Average;2;3;Private company;Unknown;;;;10783
+7588;465511;Male;Yes;31;Yes;Average;2;2;Private company;Unknown;No;City;Never;7000
+7589;460065;Female;Yes;79;Yes;Average;2;4;Private company;Unknown;No;City;Never;7000
+7590;465343;Female;Yes;43;Yes;Average;4;2;Private company;No involvement;No;City;Never;8261
+7591;467644;Male;No;30;No;Low;5;1;Government;No involvement;No;City;Never;7000
+7592;462233;Male;No;19;No;Low;7;1;Private company;Some involvement;Yes;Country-side;Never;8261
+7593;462012;Female;No;25;No;Low;8;1;Private company;Some involvement;Yes;City;Intervention in Iraq;7000
+7594;464747;Female;Yes;69;No;Average;4;2;Private company;No involvement;Yes;Country-side;Never;7000
+7595;464246;Female;Yes;59;Yes;Average;2;3;Private company;Unknown;No;City;Never;7000
+7596;463094;Male;Yes;40;Yes;Average;3;2;Private company;No involvement;No;City;Never;22132
+7597;467443;Male;No;32;No;Low;4;1;Private company;Some involvement;Yes;City;Never;15827
+7598;466800;Female;No;18;No;Low;3;1;Private company;Some involvement;No;City;Never;14566
+7599;464126;Female;No;55;Yes;Low;1;6;Student;No involvement;No;City;Never;10783
+7600;463024;Male;No;35;Yes;Low;1;4;Private company;Unknown;No;City;Never;7000
+7601;461708;Male;Yes;84;No;High;2;5;Self-employed;No involvement;No;City;Never;7000
+7602;462961;Female;Yes;56;No;Average;5;2;Private company;No involvement;No;City;Never;8261
+7603;463331;Female;Yes;45;Yes;Low;3;2;Private company;Unknown;No;City;Never;7000
+7604;467095;Male;Yes;41;No;Average;2;3;Private company;No involvement;Yes;City;Intervention in Iraq;7000
+7605;459112;Female;Yes;72;Yes;High;;;Self-employed;No involvement;;;;8261
+7606;463222;Female;No;36;Yes;Low;;;Private company;Some involvement;No;City;Never;9522
+7607;459352;Male;Yes;38;Yes;Average;4;1;Government;No involvement;Yes;City;Never;12044
+7608;466010;Female;Yes;69;No;Low;1;7;Government;No involvement;Yes;City;Never;7000
+7609;466344;Male;No;43;Yes;Low;2;3;Private company;Strong involvement;Yes;City;Never;7000
+7610;467625;Female;Yes;40;Yes;Average;2;2;Private company;Unknown;No;City;Never;7000
+7611;465346;Female;No;37;Yes;Low;3;2;Student;No involvement;No;City;Never;8261
+7612;459881;Male;No;25;Yes;Low;4;1;Private company;Some involvement;No;City;Never;17088
+7613;459432;Male;Yes;84;Yes;Low;3;3;Self-employed;No involvement;No;City;Never;7000
+7614;465488;Male;No;18;No;Low;4;1;Private company;Some involvement;No;City;Never;7000
+7615;464972;Male;Yes;67;No;High;9;1;Self-employed;No involvement;Yes;Country-side;Never;7000
+7616;462448;Male;No;19;No;Low;3;1;Private company;Some involvement;No;City;Never;7000
+7617;463160;Female;No;48;No;Low;1;5;Private company;Strong involvement;No;City;Never;7000
+7618;465582;Male;;40;Yes;Low;1;4;Private company;Unknown;Yes;City;Intervention in Iraq;8261
+7619;464884;Male;Yes;41;Yes;Low;2;3;Private company;Unknown;Yes;Country-side;Never;8261
+7620;462264;Male;Yes;45;Yes;Average;4;2;Private company;Strong involvement;No;City;Never;7000
+7621;463846;Female;Yes;45;Yes;Low;1;5;Private company;Unknown;No;City;Never;12044
+7622;460381;Male;No;28;Yes;Low;2;2;Private company;Unknown;No;City;Never;23393
+7623;466402;Male;Yes;40;Yes;Average;4;1;Private company;Unknown;No;City;Never;7000
+7624;460248;Female;No;33;Yes;Low;2;2;Private company;Some involvement;No;City;Never;15827
+7625;462742;Male;No;18;No;Low;3;1;Private company;Some involvement;Yes;City;Never;7000
+7626;465669;Female;Yes;37;No;Average;4;1;Private company;Strong involvement;Yes;Country-side;Never;9522
+7627;465997;Female;No;33;No;Low;3;2;Government;No involvement;No;City;Never;8261
+7628;467551;Female;Yes;89;No;High;2;5;Self-employed;No involvement;No;City;Never;7000
+7629;462137;Male;No;28;Yes;Low;1;3;Government;No involvement;No;City;Never;8261
+7630;467314;Male;Yes;43;No;Average;2;3;Private company;Unknown;No;City;Never;7000
+7631;459865;Male;Yes;47;Yes;Average;3;2;Private company;Unknown;No;City;Never;7000
+7632;461310;Male;No;20;No;Low;5;1;Student;No involvement;No;City;Never;7000
+7633;461137;Male;Yes;60;Yes;Low;4;2;Private company;Strong involvement;No;City;Never;7000
+7634;460982;Male;Yes;77;No;High;2;4;Self-employed;No involvement;No;City;Never;8261
+7635;464115;Female;No;38;Yes;Low;3;2;Private company;No involvement;No;City;Never;7000
+7636;462430;Male;Yes;42;Yes;High;3;2;Public company;No involvement;No;City;Never;8261
+7637;464982;Male;Yes;71;Yes;High;4;2;Public company;No involvement;No;City;Never;8261
+7638;459667;Female;Yes;50;Yes;High;6;1;Private company;Some involvement;Yes;City;Intervention in Libya;8261
+7639;459824;Male;No;38;Yes;Low;1;4;Private company;Strong involvement;No;City;Never;17088
+7640;465625;Male;No;42;Yes;Low;2;3;Private company;Unknown;No;City;Never;20871
+7641;463631;Male;No;25;No;Low;5;1;Private company;Some involvement;Yes;City;Never;7000
+7642;463494;Male;Yes;47;;Average;4;2;Private company;Some involvement;No;City;Never;7000
+7643;463721;Female;No;31;Yes;Low;4;1;Private company;Some involvement;Yes;City;Never;8261
+7644;464375;Female;Yes;63;Yes;Low;2;4;Private company;Unknown;No;City;Never;8261
+7645;463610;Female;Yes;31;Yes;Average;2;2;Private company;Unknown;No;City;Never;7000
+7646;467832;Female;No;20;No;Low;;;Private company;Some involvement;;;;12044
+7647;466066;Female;No;73;Yes;Low;1;8;Private company;Unknown;No;City;Never;7000
+7648;464093;Female;No;25;No;Low;;;Private company;No involvement;Yes;City;Intervention in Iraq;8261
+7649;465423;Male;Yes;51;Yes;Average;4;2;Private company;Strong involvement;Yes;City;Intervention in Iraq;7000
+7650;461637;Male;Yes;51;Yes;Low;2;3;Private company;Unknown;Yes;City;Intervention in Iraq;8261
+7651;459771;Female;;30;Yes;Low;3;1;Government;No involvement;Yes;City;Never;7000
+7652;464174;Female;No;43;Yes;Low;4;2;Private company;No involvement;No;City;Never;7000
+7653;464178;Male;No;29;Yes;Low;3;1;Government;No involvement;Yes;Country-side;Never;10783
+7654;461256;Male;No;33;No;Low;4;1;Government;No involvement;Yes;Country-side;Never;8261
+7655;460559;Female;No;49;Yes;Low;1;5;Private company;Some involvement;Yes;City;Never;17088
+7656;461875;Male;No;33;No;Low;3;2;Government;No involvement;No;City;Never;7000
+7657;462362;Male;Yes;63;Yes;Average;4;2;Private company;Strong involvement;No;City;Never;7000
+7658;459846;Female;Yes;50;Yes;Average;3;2;Private company;Unknown;No;City;Never;8261
+7659;465814;Female;Yes;50;No;Average;5;1;Private company;Unknown;Yes;Country-side;Never;7000
+7660;460241;Male;Yes;40;Yes;Average;2;2;Private company;Unknown;No;City;Never;17088
+7661;463531;Male;No;32;Yes;Low;4;1;Government;No involvement;No;City;Never;7000
+7662;464104;Male;Yes;62;No;Average;3;3;Private company;Unknown;No;City;Never;7000
+7663;461720;Female;No;51;Yes;Low;1;6;Private company;Unknown;Yes;Country-side;Never;8261
+7664;459871;Female;Yes;78;No;Average;2;4;Private company;Strong involvement;No;City;Never;10783
+7665;460856;Male;Yes;42;Yes;Average;3;2;Private company;Unknown;Yes;City;Never;7000
+7666;466280;Male;No;33;No;Low;2;2;Government;No involvement;Yes;City;Never;8261
+7667;460461;Female;Yes;26;No;Average;2;2;Nothing;No involvement;Yes;City;Never;18349
+7668;463679;Male;No;31;No;Low;8;1;Private company;Some involvement;Yes;Country-side;Never;7000
+7669;459535;Male;Yes;50;Yes;Average;2;3;Private company;Unknown;No;City;Never;17088
+7670;461361;Female;No;31;Yes;Low;7;1;Private company;Some involvement;Yes;City;Intervention in Libya;18349
+7671;460346;Female;Yes;40;Yes;Average;;;Private company;Unknown;No;City;Never;22132
+7672;462087;Female;No;31;Yes;Low;3;2;Private company;Some involvement;Yes;City;Never;18349
+7673;460123;Female;Yes;33;Yes;Low;2;2;Private company;No involvement;No;City;Never;18349
+7674;460396;Female;Yes;41;Yes;Low;1;5;Private company;Strong involvement;Yes;City;Intervention in Iraq;18349
+7675;459023;Female;No;18;No;Low;5;1;Private company;Some involvement;No;City;Never;7000
+7676;465461;Male;Yes;72;No;Average;3;3;Private company;Strong involvement;No;City;Never;8261
+7677;467089;Male;Yes;69;No;Average;3;3;Private company;Unknown;No;City;Never;7000
+7678;467149;Male;Yes;43;Yes;Average;3;2;Private company;Unknown;No;City;Never;18349
+7679;464615;Male;Yes;35;Yes;Low;2;2;Private company;Unknown;No;City;Never;15827
+7680;459903;Male;Yes;27;Yes;Low;4;1;Private company;Strong involvement;No;City;Never;18349
+7681;462322;Female;No;49;Yes;Low;2;3;Private company;Unknown;Yes;City;Never;8261
+7682;463104;Female;Yes;47;No;Low;1;5;Self-employed;No involvement;No;City;Never;7000
+7683;461952;Female;Yes;19;No;High;2;1;Private company;Unknown;Yes;Country-side;Never;7000
+7684;462804;Male;Yes;39;No;High;3;2;Public company;No involvement;Yes;Country-side;Never;13305
+7685;466914;Male;Yes;81;Yes;Low;1;9;Private company;Strong involvement;No;City;Never;8261
+7686;466371;Male;No;19;No;Low;4;1;Private company;Some involvement;Yes;City;Never;8261
+7687;463156;Female;Yes;79;No;High;2;4;Self-employed;No involvement;No;City;Never;7000
+7688;465475;Female;Yes;36;Yes;Average;3;2;Private company;Strong involvement;No;City;Never;7000
+7689;459104;Male;No;22;No;Low;;;Private company;Some involvement;No;City;Never;7000
+7690;460676;Female;Yes;51;Yes;Average;1;6;Student;No involvement;Yes;City;Never;18349
+7691;464672;Male;No;19;No;Low;6;1;Private company;Strong involvement;Yes;Country-side;Never;7000
+7692;463083;Male;No;30;Yes;Low;3;1;Private company;Unknown;No;City;Never;15827
+7693;463423;Male;Yes;63;No;Average;3;3;Public company;No involvement;No;City;Never;7000
+7694;461750;Male;No;52;No;Low;1;6;Private company;Unknown;No;City;Never;13305
+7695;461308;Male;No;18;No;Low;2;1;Private company;Some involvement;No;City;Never;7000
+7696;461499;Female;Yes;25;No;Average;2;2;Private company;No involvement;Yes;Country-side;Never;7000
+7697;465066;Male;Yes;47;Yes;High;4;2;Public company;No involvement;No;City;Never;15827
+7698;466695;Female;Yes;31;Yes;Low;1;4;Private company;Strong involvement;No;City;Never;8261
+7699;464822;Male;Yes;37;No;Average;3;2;Private company;Strong involvement;Yes;Country-side;Never;7000
+7700;464940;Female;Yes;30;No;Low;2;2;Private company;No involvement;Yes;Country-side;Never;8261
+7701;464022;Female;No;22;No;Low;3;1;Private company;Some involvement;No;City;Never;7000
+7702;467885;Female;No;43;Yes;Low;;;Government;No involvement;Yes;Country-side;Never;7000
+7703;464072;Male;Yes;49;Yes;Low;2;3;Public company;No involvement;No;City;Never;8261
+7704;460694;Female;Yes;53;No;Low;1;6;Private company;No involvement;No;City;Never;10783
+7705;465676;Female;Yes;51;Yes;Average;2;3;Private company;Strong involvement;Yes;Country-side;Never;7000
+7706;464340;Male;Yes;67;Yes;High;2;4;Private company;Unknown;No;City;Never;8261
+7707;460542;Female;Yes;81;No;Low;;;Self-employed;No involvement;Yes;City;Never;8261
+7708;460745;Male;Yes;78;No;High;2;4;Self-employed;No involvement;No;City;Never;8261
+7709;464193;Female;Yes;36;Yes;Low;2;2;Government;No involvement;No;City;Never;23393
+7710;461681;Male;No;31;Yes;Low;3;2;Private company;Some involvement;Yes;City;Intervention in Iraq;18349
+7711;462582;Male;No;20;No;Low;4;1;Private company;Some involvement;Yes;Country-side;Never;7000
+7712;464583;Female;No;37;Yes;Low;;;Private company;No involvement;No;City;Never;15827
+7713;459840;Male;Yes;60;Yes;Low;1;6;Private company;Unknown;No;City;Never;8261
+7714;460335;Female;No;63;Yes;Low;2;4;Government;No involvement;No;City;Never;7000
+7715;465529;Female;No;33;No;Low;4;1;Government;No involvement;No;City;Never;7000
+7716;467736;Female;Yes;79;Yes;High;;;Self-employed;No involvement;No;City;Never;12044
+7717;463249;Male;No;28;No;Low;2;2;Private company;Strong involvement;Yes;City;Intervention in Iraq;8261
+7718;462275;Male;Yes;42;Yes;Average;2;3;Private company;Unknown;No;City;Never;8261
+7719;467091;Female;No;42;Yes;Low;3;2;Private company;Strong involvement;No;City;Never;8261
+7720;466573;Female;No;37;Yes;Low;2;2;Private company;Unknown;No;City;Never;13305
+7721;459845;Male;Yes;66;Yes;Low;1;7;Private company;Some involvement;Yes;Country-side;Never;7000
+7722;460154;Male;No;29;Yes;Low;4;1;Private company;Strong involvement;No;City;Never;17088
+7723;462908;Male;Yes;27;No;High;3;1;Public company;No involvement;No;City;Never;19610
+7724;460413;Female;No;39;Yes;Low;1;4;Private company;Unknown;No;City;Never;15827
+7725;466804;Female;;40;Yes;Low;1;4;Nothing;No involvement;Yes;City;Never;12044
+7726;464314;Male;Yes;68;No;Low;2;4;Self-employed;No involvement;No;City;Never;7000
+7727;460481;Male;No;25;Yes;Low;2;2;Private company;Strong involvement;Yes;City;Never;8261
+7728;467415;Female;No;31;Yes;Low;1;4;Private company;Some involvement;No;City;Never;8261
+7729;460046;Female;Yes;49;Yes;Low;2;3;Private company;Unknown;No;City;Never;10783
+7730;461577;Female;Yes;50;Yes;Average;3;2;Private company;Unknown;No;City;Never;8261
+7731;464413;Female;Yes;36;Yes;Low;1;4;Private company;No involvement;Yes;City;Never;7000
+7732;461876;Male;No;32;Yes;Low;2;2;Private company;Strong involvement;No;City;Never;18349
+7733;465800;Male;No;25;No;Low;3;1;Private company;Some involvement;No;City;Never;8261
+7734;464186;Female;Yes;39;Yes;Average;2;2;Private company;Unknown;No;City;Never;13305
+7735;463080;Male;No;32;No;Low;4;1;Private company;Unknown;Yes;City;Intervention in Libya;7000
+7736;461923;Female;Yes;42;Yes;Average;2;3;Private company;Unknown;No;City;Never;9522
+7737;461155;Female;Yes;51;Yes;Low;2;3;Private company;Unknown;Yes;City;Never;10783
+7738;465094;Male;Yes;61;No;High;2;4;Private company;Unknown;No;City;Never;8261
+7739;464490;Male;Yes;85;Yes;High;4;3;Private company;Unknown;No;City;Never;8261
+7740;459710;Male;Yes;61;Yes;Low;1;7;Private company;Unknown;No;City;Never;7000
+7741;462523;Male;Yes;57;No;Low;3;2;Government;No involvement;Yes;Country-side;Never;12044
+7742;460086;Male;Yes;50;No;Average;3;2;Private company;Unknown;No;City;Never;8261
+7743;466426;Female;No;25;Yes;Low;2;2;Private company;No involvement;Yes;City;Never;7000
+7744;464963;Female;Yes;47;Yes;Low;2;3;Private company;Strong involvement;Yes;Country-side;Never;8261
+7745;466520;Male;;61;;Average;2;4;Private company;No involvement;Yes;City;Never;9522
+7746;460327;Female;No;42;Yes;Low;1;5;Private company;Unknown;No;City;Never;22132
+7747;466889;Male;Yes;50;Yes;High;4;2;Public company;No involvement;No;City;Never;7000
+7748;466959;Male;Yes;25;Yes;Low;4;1;Private company;Unknown;No;City;Never;17088
+7749;464097;Male;Yes;35;Yes;High;2;2;Government;No involvement;No;City;Never;13305
+7750;465118;Female;Yes;51;Yes;Average;6;1;Private company;Unknown;No;City;Never;8261
+7751;465226;Male;Yes;37;No;Low;3;2;Private company;Strong involvement;No;City;Never;9522
+7752;461640;Male;Yes;52;Yes;Average;2;3;Private company;Unknown;No;City;Never;8261
+7753;465999;Female;Yes;32;No;Low;1;4;;;No;City;Never;17088
+7754;462099;Female;Yes;47;Yes;Average;5;1;Government;No involvement;Yes;City;Never;7000
+7755;461476;Male;Yes;53;Yes;Average;4;2;Private company;Unknown;Yes;City;Never;8261
+7756;461693;Female;Yes;36;Yes;Average;4;1;Private company;Unknown;No;City;Never;8261
+7757;459445;Female;Yes;35;Yes;Average;3;2;Private company;Unknown;No;City;Never;7000
+7758;459725;Female;Yes;35;Yes;Low;2;2;Private company;Unknown;No;City;Never;8261
+7759;467156;Male;Yes;37;Yes;Low;1;4;Private company;Unknown;No;City;Never;14566
+7760;459787;Male;Yes;71;No;Low;1;8;Self-employed;No involvement;No;City;Never;7000
+7761;461801;Female;No;27;No;Low;3;1;Private company;Some involvement;No;City;Never;7000
+7762;463902;Female;Yes;41;Yes;Average;4;2;Private company;Strong involvement;No;City;Never;7000
+7763;466327;Male;Yes;31;Yes;Average;3;2;Private company;Strong involvement;Yes;City;Never;13305
+7764;463569;Female;Yes;59;No;Average;4;2;Student;No involvement;Yes;City;Intervention in Syria;8261
+7765;461715;Male;No;43;Yes;Low;5;1;Private company;Strong involvement;Yes;City;Never;7000
+7766;459204;Female;Yes;35;Yes;Average;2;2;Private company;No involvement;No;City;Never;7000
+7767;463486;Male;Yes;43;No;High;8;1;Public company;No involvement;Yes;Country-side;Never;7000
+7768;462455;Male;No;20;No;Low;5;1;Private company;Some involvement;Yes;City;Never;8261
+7769;466454;Male;No;33;Yes;Low;1;4;Private company;Strong involvement;No;City;Never;8261
+7770;461800;Female;No;36;Yes;Low;1;4;Government;No involvement;Yes;City;Never;12044
+7771;467436;Male;Yes;51;Yes;Average;4;2;Private company;Unknown;No;City;Never;13305
+7772;466802;Female;;43;Yes;Low;1;5;Private company;No involvement;No;City;Never;8261
+7773;465311;Male;No;20;No;Low;4;1;Private company;Some involvement;No;City;Never;7000
+7774;462342;Female;Yes;71;Yes;High;2;4;Self-employed;No involvement;No;City;Never;17088
+7775;465925;Male;No;26;Yes;Low;1;3;Private company;Some involvement;No;City;Never;8261
+7776;460109;Male;Yes;46;Yes;Average;2;3;Private company;Unknown;No;City;Never;17088
+7777;463312;Male;Yes;40;No;Low;1;4;Private company;No involvement;Yes;City;Never;10783
+7778;466120;Female;Yes;37;No;Low;4;1;Student;No involvement;No;City;Never;7000
+7779;465995;Male;No;27;No;Low;3;1;Private company;Strong involvement;Yes;City;Never;7000
+7780;467688;Female;Yes;47;Yes;Average;2;3;Private company;No involvement;No;City;Never;7000
+7781;460651;Male;No;32;No;Low;;;Nothing;No involvement;Yes;Country-side;Never;17088
+7782;465355;Female;Yes;47;Yes;Average;2;3;Private company;Unknown;No;City;Never;15827
+7783;464952;Female;Yes;70;No;Average;2;4;Private company;No involvement;Yes;Country-side;Never;7000
+7784;465974;Male;Yes;52;Yes;High;4;2;Public company;No involvement;Yes;Country-side;Never;15827
+7785;460324;Female;No;33;Yes;Low;2;2;Private company;Strong involvement;No;City;Never;22132
+7786;464670;Male;Yes;42;No;Average;4;2;Private company;Strong involvement;Yes;Country-side;Never;7000
+7787;465765;Male;Yes;52;No;Average;2;3;Private company;Strong involvement;Yes;Country-side;Never;7000
+7788;464385;Male;Yes;70;No;Average;2;4;Private company;No involvement;No;City;Never;7000
+7789;464837;Male;Yes;61;Yes;Average;5;2;Private company;Unknown;Yes;Country-side;Never;8261
+7790;459863;Male;Yes;61;No;Low;3;3;Private company;Some involvement;No;City;Never;7000
+7791;462942;Female;No;33;Yes;Low;4;1;Private company;Strong involvement;Yes;Country-side;Never;7000
+7792;467945;Male;Yes;65;Yes;Average;2;4;Private company;Unknown;No;City;Never;7000
+7793;459731;Female;Yes;58;Yes;High;3;2;Private company;Unknown;;;;7000
+7794;466406;Male;Yes;55;Yes;Low;3;2;Private company;Strong involvement;No;City;Never;8261
+7795;465154;Male;No;22;No;Low;2;2;Private company;Some involvement;Yes;Country-side;Never;8261
+7796;459139;Female;Yes;53;Yes;Average;2;3;Private company;Unknown;Yes;Country-side;Never;8261
+7797;467151;Male;No;37;No;Low;1;4;Private company;Strong involvement;No;City;Never;7000
+7798;463306;Female;Yes;60;Yes;High;4;2;Private company;No involvement;Yes;City;Never;8261
+7799;463286;Male;Yes;35;Yes;Average;3;2;Private company;Unknown;No;City;Never;8261
+7800;467244;Male;No;26;Yes;Low;5;1;Private company;Some involvement;No;City;Never;7000
+7801;462639;Female;Yes;43;No;Average;2;3;Private company;No involvement;Yes;Country-side;Never;7000
+7802;461522;Male;Yes;83;No;High;2;5;Public company;No involvement;No;City;Never;8261
+7803;464932;Male;Yes;53;Yes;Low;1;6;Public company;No involvement;Yes;Country-side;Never;18349
+7804;466841;Male;No;21;No;Low;6;1;Private company;Some involvement;Yes;Country-side;Never;8261
+7805;464059;Male;Yes;57;Yes;Low;1;6;Private company;Unknown;No;City;Never;8261
+7806;462890;Female;No;25;Yes;Low;1;3;Student;No involvement;No;City;Never;22132
+7807;463839;Female;Yes;57;No;Low;3;2;Private company;No involvement;No;City;Never;7000
+7808;466137;Female;;31;No;Low;4;1;Private company;Some involvement;No;City;Never;7000
+7809;466339;Male;No;23;No;Low;2;2;Private company;Some involvement;Yes;Country-side;Never;7000
+7810;461180;Male;No;28;No;Low;3;1;Private company;Strong involvement;Yes;City;Never;7000
+7811;461192;Female;Yes;46;Yes;High;;;Private company;Unknown;No;City;Never;7000
+7812;464994;Male;Yes;56;Yes;High;5;2;Public company;No involvement;No;City;Never;17088
+7813;466337;Female;Yes;41;No;Low;2;3;Private company;No involvement;Yes;Country-side;Never;7000
+7814;459207;Female;Yes;62;;Average;4;2;Government;No involvement;No;City;Never;7000
+7815;463654;Female;No;39;No;Low;3;2;Private company;No involvement;Yes;City;Never;12044
+7816;467310;Female;Yes;88;Yes;High;3;3;Self-employed;No involvement;No;City;Never;7000
+7817;461173;Male;Yes;45;Yes;Low;4;2;Private company;Unknown;Yes;City;Never;8261
+7818;463734;Male;Yes;38;No;Average;3;2;Public company;No involvement;No;City;Never;7000
+7819;459120;Male;No;23;No;Low;5;1;Private company;Some involvement;Yes;City;Never;13305
+7820;465019;Male;Yes;53;Yes;Low;3;2;Private company;Unknown;No;City;Never;7000
+7821;463681;Male;Yes;83;Yes;Low;1;9;Self-employed;No involvement;No;City;Never;7000
+7822;461339;Male;No;26;Yes;Low;3;1;Private company;Some involvement;No;City;Never;8261
+7823;459213;Female;No;38;Yes;Low;4;1;Private company;Some involvement;No;City;Never;7000
+7824;464061;Male;Yes;30;Yes;Average;2;2;Private company;Unknown;No;City;Never;22132
+7825;466749;Male;No;21;;Low;5;1;Private company;Some involvement;Yes;City;Never;8261
+7826;460814;Male;Yes;78;No;Low;1;8;Private company;Strong involvement;No;City;Never;7000
+7827;465085;Male;Yes;83;Yes;High;2;5;Self-employed;No involvement;No;City;Never;7000
+7828;459258;Female;Yes;74;Yes;High;;;Self-employed;No involvement;No;City;Never;8261
+7829;464205;Female;Yes;82;No;High;2;5;Private company;Strong involvement;No;City;Never;7000
+7830;462238;Male;Yes;60;No;Low;2;3;Private company;Strong involvement;Yes;City;Never;7000
+7831;465018;Male;No;42;Yes;Low;3;2;Private company;Strong involvement;No;City;Never;7000
+7832;461051;Female;Yes;71;Yes;Average;2;4;Private company;Strong involvement;No;City;Never;8261
+7833;462550;Female;No;23;No;Low;6;1;Private company;Some involvement;Yes;City;Intervention in Syria;9522
+7834;467383;Female;Yes;77;Yes;High;2;4;Self-employed;No involvement;No;City;Never;7000
+7835;460616;Male;Yes;32;Yes;Average;2;2;Nothing;No involvement;Yes;City;Never;9522
+7836;467785;Male;Yes;43;No;Low;2;3;Private company;Unknown;No;City;Never;8261
+7837;461205;Male;No;27;Yes;Low;3;1;Private company;Some involvement;Yes;City;Never;7000
+7838;464135;Female;Yes;68;Yes;High;2;4;Self-employed;No involvement;No;City;Never;7000
+7839;459704;Male;Yes;41;Yes;Average;3;2;Private company;Unknown;No;City;Never;8261
+7840;465783;Male;No;23;No;Low;5;1;Private company;Some involvement;Yes;City;Never;8261
+7841;460544;Male;No;77;Yes;Low;1;8;Self-employed;No involvement;Yes;City;Never;7000
+7842;461807;Male;No;30;Yes;Low;4;1;Government;No involvement;No;City;Never;19610
+7843;461012;Male;No;35;No;Low;3;2;Government;No involvement;Yes;City;Never;8261
+7844;466338;Female;No;39;No;Low;3;2;Private company;No involvement;Yes;Country-side;Never;7000
+7845;459606;Male;Yes;38;Yes;Average;3;2;Private company;Unknown;No;City;Never;8261
+7846;459709;Female;Yes;47;Yes;Average;4;2;Private company;Unknown;No;City;Never;15827
+7847;465612;Male;Yes;37;Yes;Average;2;2;Private company;Unknown;No;City;Never;18349
+7848;466674;Female;Yes;57;Yes;High;2;3;Private company;Unknown;No;City;Never;7000
+7849;462073;Female;No;36;Yes;Low;1;4;Private company;Unknown;No;City;Never;14566
+7850;461503;Female;No;31;Yes;Low;2;2;Private company;Unknown;No;City;Never;18349
+7851;463403;Male;No;18;No;Low;4;1;Private company;Some involvement;No;City;Never;9522
+7852;465852;Male;Yes;39;Yes;Low;2;2;Government;No involvement;Yes;Country-side;Never;8261
+7853;459852;Male;No;40;Yes;Low;1;4;Private company;Unknown;No;City;Never;15827
+7854;463378;Male;No;30;Yes;Low;1;3;Government;No involvement;Yes;City;Never;8261
+7855;462918;Male;Yes;38;Yes;Average;3;2;Government;No involvement;No;City;Never;20871
+7856;460586;Male;No;26;Yes;Low;2;2;Private company;Some involvement;Yes;City;Never;8261
+7857;461402;Female;No;32;Yes;Low;5;1;Private company;Strong involvement;No;City;Never;8261
+7858;459955;Male;No;47;Yes;Low;2;3;Private company;No involvement;No;City;Never;8261
+7859;460296;Female;Yes;60;Yes;Low;2;3;Private company;Unknown;No;City;Never;8261
+7860;465291;Female;Yes;45;Yes;Average;3;2;Private company;Unknown;No;City;Never;13305
+7861;459496;Female;No;42;Yes;Low;3;2;Private company;Unknown;No;City;Never;7000
+7862;460520;Female;No;28;Yes;Low;3;1;Government;No involvement;Yes;City;Never;8261
+7863;467720;Male;No;27;Yes;Low;2;2;Private company;Strong involvement;No;City;Never;7000
+7864;462115;Male;No;18;No;Low;3;1;Private company;Some involvement;No;City;Never;7000
+7865;463010;Male;Yes;81;No;Low;1;9;Public company;No involvement;No;City;Never;7000
+7866;459454;Male;Yes;38;No;Average;2;2;Private company;Unknown;No;City;Never;7000
+7867;463537;Female;No;32;Yes;Low;3;2;Private company;Some involvement;No;City;Never;8261
+7868;462701;Male;Yes;59;No;Average;4;2;Private company;Strong involvement;No;City;Never;7000
+7869;464859;Female;Yes;45;Yes;Average;3;2;Private company;Unknown;No;City;Never;8261
+7870;467036;Male;Yes;66;No;Low;1;7;Self-employed;No involvement;No;City;Never;7000
+7871;461400;Male;No;36;No;Low;1;4;Student;No involvement;No;City;Never;7000
+7872;462496;Male;Yes;45;No;Average;3;2;Private company;Unknown;No;City;Never;8261
+7873;461971;Male;Yes;50;Yes;Average;4;2;Private company;Strong involvement;Yes;City;Never;8261
+7874;467015;Male;Yes;49;Yes;Average;2;3;Private company;Unknown;No;City;Never;7000
+7875;461086;Male;No;23;No;Low;7;1;Private company;Some involvement;Yes;City;Never;8261
+7876;466009;Female;No;32;No;Low;5;1;;;No;City;Never;19610
+7877;462488;Male;No;33;Yes;Low;5;1;Private company;Some involvement;No;City;Never;7000
+7878;465880;Female;No;46;Yes;Low;2;3;Private company;Strong involvement;No;City;Never;8261
+7879;463776;Female;Yes;39;Yes;Average;2;2;Private company;Unknown;No;City;Never;10783
+7880;464123;Female;No;51;Yes;Low;1;6;Private company;Unknown;No;City;Never;7000
+7881;467565;Male;Yes;60;Yes;Low;3;2;Private company;Unknown;No;City;Never;7000
+7882;466557;Female;No;21;No;Low;;;Private company;Some involvement;No;City;Never;15827
+7883;459341;Male;Yes;72;Yes;High;2;4;Self-employed;No involvement;No;City;Never;7000
+7884;462035;Female;No;37;Yes;Low;1;4;Private company;Unknown;No;City;Never;10783
+7885;462257;Female;Yes;81;Yes;High;2;5;Self-employed;No involvement;No;City;Never;7000
+7886;460261;Female;Yes;58;Yes;High;4;2;Self-employed;No involvement;Yes;City;Intervention in Syria;8261
+7887;460168;Male;Yes;86;Yes;High;2;5;Public company;No involvement;Yes;City;Never;7000
+7888;467657;Male;No;23;No;Low;4;1;Private company;Some involvement;Yes;City;Never;7000
+7889;462588;Male;Yes;41;No;Average;3;2;Private company;Strong involvement;Yes;Country-side;Never;22132
+7890;462473;Male;No;69;No;Low;;;Private company;No involvement;Yes;Country-side;Never;8261
+7891;465032;Male;Yes;72;Yes;High;2;4;Public company;No involvement;No;City;Never;7000
+7892;465273;Female;No;35;Yes;Low;2;2;Private company;Some involvement;Yes;City;Never;18349
+7893;460132;Male;No;39;Yes;Low;2;2;Private company;Some involvement;No;City;Never;10783
+7894;459330;Male;No;33;No;Low;9;1;Student;No involvement;No;City;Never;20871
+7895;461714;Male;Yes;82;Yes;High;2;5;Self-employed;No involvement;No;City;Never;8261
+7896;463858;Male;Yes;37;No;Average;2;2;Private company;Unknown;No;City;Never;7000
+7897;460443;Female;No;38;Yes;Low;1;4;Government;No involvement;No;City;Never;7000
+7898;462991;Male;No;28;Yes;Low;1;3;Private company;Some involvement;No;City;Never;7000
+7899;459836;Male;;32;Yes;High;5;1;Private company;Some involvement;Yes;City;Intervention in Iraq;17088
+7900;459239;Male;Yes;81;No;Low;1;9;Private company;Strong involvement;No;City;Never;8261
+7901;465737;Female;Yes;49;Yes;Low;3;2;Private company;No involvement;Yes;City;Never;14566
+7902;461120;Male;No;20;No;Low;3;1;Private company;Some involvement;Yes;City;Never;8261
+7903;466633;Male;Yes;39;Yes;Average;2;2;Private company;Strong involvement;No;City;Never;14566
+7904;459201;Female;Yes;66;Yes;Average;2;4;Private company;Unknown;No;City;Never;7000
+7905;464461;Male;Yes;41;Yes;Average;4;2;;;No;City;Never;8261
+7906;466369;Female;No;38;No;Low;1;4;Nothing;No involvement;Yes;City;Never;13305
+7907;465596;Male;;36;Yes;High;2;2;Private company;Some involvement;Yes;Country-side;Never;17088
+7908;465084;Male;Yes;61;Yes;High;2;4;Public company;No involvement;No;City;Never;13305
+7909;459492;Female;Yes;72;Yes;High;2;4;Self-employed;No involvement;No;City;Never;8261
+7910;460751;Female;No;25;No;Low;3;1;Private company;Unknown;No;City;Never;8261
+7911;466056;Female;No;36;Yes;Low;1;4;Private company;Unknown;Yes;Country-side;Never;8261
+7912;460570;Male;No;25;Yes;Low;5;1;Student;No involvement;Yes;City;Never;7000
+7913;462551;Male;Yes;53;Yes;Average;2;3;Government;No involvement;No;City;Never;24654
+7914;466179;Male;Yes;71;No;Low;1;8;Self-employed;No involvement;No;City;Never;7000
+7915;464065;Female;Yes;35;Yes;Low;2;2;Private company;Some involvement;No;City;Never;19610
+7916;464617;Female;No;39;Yes;Low;1;4;Private company;Unknown;No;City;Never;8261
+7917;459975;Female;No;38;Yes;Low;1;4;Private company;Unknown;No;City;Never;15827
+7918;464396;Male;Yes;35;Yes;Average;3;2;Private company;Strong involvement;No;City;Never;8261
+7919;466089;Male;No;59;No;Low;3;2;Private company;Strong involvement;No;City;Never;7000
+7920;462964;Male;Yes;39;No;Average;3;2;Private company;Unknown;No;City;Never;15827
+7921;467461;Female;Yes;45;Yes;High;3;2;Private company;Unknown;No;City;Never;17088
+7922;467261;Female;Yes;77;Yes;High;2;4;Self-employed;No involvement;No;City;Never;7000
+7923;459639;Female;Yes;56;Yes;Low;1;6;Private company;Unknown;No;City;Never;7000
+7924;459495;Male;No;29;Yes;Low;3;1;Private company;Unknown;No;City;Never;7000
+7925;465368;Male;No;18;No;Low;3;1;Private company;Some involvement;Yes;City;Intervention in Syria;15827
+7926;466787;Female;Yes;33;Yes;Low;2;2;Government;No involvement;No;City;Never;7000
+7927;464053;Female;Yes;38;No;Low;1;4;Private company;Strong involvement;No;City;Never;12044
+7928;460946;Male;No;84;No;Low;1;9;Private company;Unknown;No;City;Never;7000
+7929;464130;Male;No;41;Yes;Low;3;2;Private company;Unknown;No;City;Never;8261
+7930;462024;Male;No;33;Yes;Low;8;1;Private company;Strong involvement;Yes;Country-side;Never;8261
+7931;465053;Male;Yes;82;Yes;High;2;5;Public company;No involvement;No;City;Never;7000
+7932;461736;Male;Yes;47;Yes;Average;4;2;Private company;Strong involvement;No;City;Never;8261
+7933;461427;Female;No;42;Yes;Low;2;3;Private company;Unknown;No;City;Never;8261
+7934;459405;Female;Yes;81;No;High;2;5;Government;No involvement;No;City;Never;7000
+7935;460368;Male;No;28;Yes;Low;7;1;Private company;Some involvement;No;City;Never;7000
+7936;465235;Male;Yes;46;Yes;High;3;2;Private company;Some involvement;No;City;Never;8261
+7937;460540;Female;Yes;30;No;Average;2;2;Private company;Unknown;Yes;City;Never;8261
+7938;465541;Female;Yes;45;Yes;Average;4;2;Private company;Unknown;Yes;City;Intervention in Iraq;8261
+7939;466872;Male;Yes;43;Yes;Low;2;3;Private company;Unknown;Yes;City;Never;8261
+7940;459034;Female;No;21;No;Low;5;1;Private company;Some involvement;No;City;Never;7000
+7941;459849;Female;Yes;50;Yes;High;5;1;Private company;Unknown;No;City;Never;8261
+7942;460164;Male;Yes;66;No;Low;2;4;Private company;No involvement;No;City;Never;8261
+7943;466604;Male;No;32;Yes;Low;;;Private company;Some involvement;No;City;Never;8261
+7944;460453;Female;No;40;Yes;Low;1;4;Government;No involvement;No;City;Never;15827
+7945;467744;Male;No;36;Yes;Low;1;4;Private company;Unknown;No;City;Never;18349
+7946;467591;Female;Yes;41;Yes;High;5;1;Private company;Unknown;Yes;City;Intervention in Iraq;8261
+7947;465049;Female;Yes;49;No;Low;2;3;Private company;No involvement;No;City;Never;14566
+7948;466420;Male;No;27;Yes;Low;4;1;Private company;Unknown;Yes;City;Never;13305
+7949;461301;Male;Yes;71;Yes;Average;2;4;Self-employed;No involvement;No;City;Never;7000
+7950;461260;Male;No;20;No;Low;3;1;Student;No involvement;Yes;Country-side;Never;8261
+7951;461951;Male;No;21;No;Low;4;1;Private company;Some involvement;No;City;Never;7000
+7952;460340;Female;No;46;Yes;Low;2;3;Private company;Unknown;No;City;Never;19610
+7953;467124;Male;Yes;57;No;Average;2;3;;;Yes;Country-side;Never;8261
+7954;460596;Male;No;29;No;Low;5;1;Private company;No involvement;Yes;City;Never;7000
+7955;466610;Male;No;19;No;Low;5;1;Student;No involvement;No;City;Never;7000
+7956;467313;Male;Yes;39;Yes;Average;2;2;Private company;Strong involvement;No;City;Never;8261
+7957;467859;Male;Yes;39;Yes;Average;2;2;Government;No involvement;Yes;City;Never;14566
+7958;462638;Female;No;33;Yes;Low;2;2;Private company;No involvement;Yes;Country-side;Never;7000
+7959;465495;Male;Yes;29;Yes;Low;2;2;Private company;No involvement;Yes;Country-side;Never;13305
+7960;466687;Male;No;22;No;Low;3;1;Private company;Some involvement;No;City;Never;7000
+7961;467389;Male;No;43;No;Low;;;Private company;No involvement;No;City;Never;8261
+7962;465177;Female;No;60;Yes;Low;2;3;Private company;Strong involvement;No;City;Never;8261
+7963;463530;Female;No;32;No;Low;5;1;Private company;Strong involvement;No;City;Never;22132
+7964;463826;Female;No;28;Yes;Low;;;Private company;Some involvement;No;City;Never;13305
+7965;466925;Male;No;19;No;Low;2;1;Private company;Some involvement;No;City;Never;15827
+7966;461353;Male;Yes;50;Yes;High;4;2;Public company;No involvement;No;City;Never;7000
+7967;466476;Female;No;29;No;Low;3;1;Private company;Some involvement;No;City;Never;7000
+7968;462105;Male;Yes;47;No;High;4;2;Public company;No involvement;Yes;Country-side;Never;7000
+7969;466051;Male;No;25;No;Low;1;3;Public company;No involvement;Yes;Country-side;Never;10783
+7970;459546;Female;Yes;81;No;High;2;5;Self-employed;No involvement;No;City;Never;7000
+7971;461665;Male;Yes;61;Yes;Average;2;4;Private company;Strong involvement;Yes;City;Intervention in Libya;12044
+7972;460978;Female;No;35;Yes;Low;6;1;Private company;Some involvement;Yes;City;Never;10783
+7973;467029;Male;Yes;42;Yes;Average;2;3;Private company;Unknown;No;City;Never;17088
+7974;464005;Female;No;27;No;Low;5;1;Private company;Some involvement;No;City;Never;7000
+7975;463248;Female;Yes;26;No;Average;4;1;Nothing;No involvement;Yes;City;Never;17088
+7976;462546;Female;No;21;No;Low;;;Public company;No involvement;Yes;City;Intervention in Iraq;17088
+7977;467816;Female;No;73;Yes;Low;1;8;Private company;Unknown;No;City;Never;7000
+7978;461659;Female;Yes;52;Yes;Average;2;3;Private company;Unknown;No;City;Never;7000
+7979;459115;Female;No;21;No;Low;5;1;Student;No involvement;Yes;Country-side;Never;8261
+7980;463451;Female;No;30;No;Low;4;1;Government;No involvement;No;City;Never;7000
+7981;463432;Male;No;36;Yes;Low;1;4;Private company;Unknown;No;City;Never;7000
+7982;463757;Male;No;39;Yes;Low;3;2;Private company;Unknown;No;City;Never;7000
+7983;461398;Male;No;20;No;Low;4;1;Government;No involvement;No;City;Never;7000
+7984;462371;Female;No;27;No;Low;3;1;Private company;Some involvement;Yes;City;Never;13305
+7985;466116;Male;Yes;62;Yes;Average;9;1;Private company;Unknown;Yes;City;Never;7000
+7986;459236;Female;Yes;86;No;High;2;5;Self-employed;No involvement;No;City;Never;7000
+7987;463829;Female;Yes;49;Yes;Average;4;2;Private company;Unknown;No;City;Never;8261
+7988;464716;Male;Yes;43;Yes;High;6;1;Student;No involvement;Yes;Country-side;Never;7000
+7989;466679;Female;No;43;Yes;Low;2;3;Private company;Unknown;No;City;Never;17088
+7990;467695;Male;Yes;43;No;Low;2;3;Student;No involvement;Yes;City;Intervention in Iraq;8261
+7991;461178;Male;Yes;33;No;Low;3;2;Private company;Strong involvement;Yes;City;Never;8261
+7992;465729;Male;Yes;41;Yes;Average;4;2;Private company;Unknown;Yes;Country-side;Never;7000
+7993;466830;Male;No;28;Yes;Low;4;1;Private company;Some involvement;No;City;Never;13305
+7994;461128;Male;No;20;No;Low;3;1;Private company;Some involvement;No;City;Never;15827
+7995;461202;Male;No;33;Yes;Low;4;1;Private company;Some involvement;No;City;Never;7000
+7996;465621;Male;No;42;Yes;Low;1;5;Government;No involvement;No;City;Never;17088
+7997;465885;Female;No;41;Yes;Low;2;3;Student;No involvement;No;City;Never;8261
+7998;462685;Female;No;32;No;Low;3;2;Private company;Some involvement;Yes;Country-side;Never;7000
+7999;461024;Male;Yes;82;Yes;Low;1;9;Self-employed;No involvement;No;City;Never;8261
+8000;463345;Female;No;20;No;Low;4;1;Private company;Some involvement;No;City;Never;12044
+8001;461414;Male;No;30;Yes;Low;5;1;Private company;Strong involvement;Yes;City;Never;7000
+8002;464007;Male;Yes;49;Yes;Low;3;2;Private company;Unknown;No;City;Never;7000
+8003;460967;Male;No;25;Yes;Low;2;2;Private company;Strong involvement;No;City;Never;8261
+8004;466884;Female;Yes;42;No;Low;1;5;Government;No involvement;No;City;Never;8261
+8005;461690;Female;No;31;Yes;Low;1;4;Private company;No involvement;Yes;Country-side;Never;7000
+8006;465777;Female;No;30;Yes;Low;5;1;Private company;Unknown;No;City;Never;18349
+8007;466718;Male;Yes;66;;High;2;4;Public company;No involvement;No;City;Never;7000
+8008;467228;Male;No;29;Yes;Low;4;1;Private company;Some involvement;No;City;Never;7000
+8009;465323;Female;Yes;43;Yes;Low;1;5;Private company;Unknown;No;City;Never;7000
+8010;466069;Female;Yes;49;Yes;High;4;2;Private company;Unknown;;;;7000
+8011;462671;Female;Yes;43;Yes;High;2;3;Nothing;No involvement;No;City;Never;17088
+8012;467542;Male;No;30;Yes;Low;1;3;Private company;Some involvement;No;City;Never;18349
+8013;461127;Male;No;23;No;Low;5;1;Private company;Some involvement;Yes;Country-side;Never;8261
+8014;463687;Female;No;31;No;Low;5;1;Private company;Some involvement;Yes;City;Never;7000
+8015;461536;Female;No;39;Yes;Low;1;4;Government;No involvement;No;City;Never;9522
+8016;460289;Female;Yes;60;Yes;Average;6;1;Private company;Unknown;Yes;Country-side;Never;9522
+8017;464151;Male;No;40;Yes;Low;1;4;Government;No involvement;Yes;City;Never;22132
+8018;467732;Female;No;43;Yes;Low;1;5;Private company;Some involvement;;;;17088
+8019;465414;Female;No;30;No;Low;1;3;Private company;No involvement;;;;7000
+8020;465623;Male;Yes;41;Yes;Average;2;3;Private company;Unknown;No;City;Never;17088
+8021;460278;Male;Yes;29;Yes;Low;5;1;Private company;Unknown;Yes;Country-side;Never;7000
+8022;460892;Male;Yes;43;Yes;Average;4;2;Private company;No involvement;Yes;City;Intervention in Iraq;7000
+8023;467642;Male;Yes;46;Yes;Average;4;2;Private company;Unknown;Yes;City;Never;9522
+8024;462698;Female;Yes;56;Yes;Average;2;3;Private company;Strong involvement;No;City;Never;8261
+8025;459853;Male;No;30;No;Low;5;1;Public company;No involvement;No;City;Never;13305
+8026;460711;Female;No;25;Yes;Low;3;1;Private company;No involvement;No;City;Never;17088
+8027;462579;Female;Yes;68;No;Low;2;4;Self-employed;No involvement;Yes;Country-side;Never;8261
+8028;464775;Female;Yes;35;;Average;4;1;;;Yes;Country-side;Never;17088
+8029;464619;Male;Yes;27;Yes;Low;2;2;Private company;Strong involvement;No;City;Never;19610
+8030;466516;Male;No;19;No;Low;3;1;Private company;Some involvement;No;City;Never;7000
+8031;465183;Female;Yes;38;Yes;Low;2;2;Private company;Unknown;Yes;City;Intervention in Iraq;10783
+8032;466109;Male;Yes;51;Yes;Average;4;2;Private company;Strong involvement;No;City;Never;8261
+8033;465993;Female;No;27;No;Low;2;2;Private company;No involvement;No;City;Never;7000
+8034;467073;Male;No;37;Yes;Low;1;4;Private company;No involvement;No;City;Never;18349
+8035;466983;Female;Yes;41;Yes;Average;2;3;Private company;Unknown;No;City;Never;17088
+8036;459391;Female;No;40;Yes;Low;4;1;Private company;No involvement;No;City;Never;8261
+8037;467558;Male;Yes;50;Yes;Average;8;1;Government;No involvement;No;City;Never;7000
+8038;466933;Female;Yes;52;No;Low;;;Private company;No involvement;Yes;Country-side;Never;7000
+8039;461105;Female;No;49;Yes;Low;1;5;Private company;Strong involvement;Yes;City;Never;7000
+8040;466708;Male;Yes;65;No;Low;1;7;Private company;Strong involvement;No;City;Never;8261
+8041;459451;Female;Yes;46;Yes;Low;2;3;Private company;Unknown;No;City;Never;7000
+8042;463275;Male;Yes;29;No;Average;2;2;Private company;Strong involvement;Yes;City;Never;15827
+8043;461793;Male;No;20;No;Low;2;1;Student;No involvement;No;City;Never;7000
+8044;463145;Female;No;38;Yes;Low;4;1;Nothing;No involvement;No;City;Never;7000
+8045;463135;Male;Yes;46;Yes;Average;2;3;Private company;Unknown;Yes;City;Never;13305
+8046;460075;Female;No;25;Yes;Low;1;3;Private company;Unknown;No;City;Never;7000
+8047;462317;Female;No;32;No;Low;6;1;Private company;Strong involvement;Yes;Country-side;Never;10783
+8048;467450;Male;Yes;81;No;High;2;5;Public company;No involvement;No;City;Never;18349
+8049;462919;Female;Yes;37;No;Average;3;2;Nothing;No involvement;No;City;Never;23393
+8050;465195;Male;Yes;53;Yes;High;3;2;Public company;No involvement;No;City;Never;8261
+8051;460841;Female;No;61;Yes;Low;1;7;Student;No involvement;No;City;Never;8261
+8052;462154;Male;Yes;36;Yes;Average;2;2;Private company;Strong involvement;No;City;Never;7000
+8053;463289;Female;Yes;39;Yes;Average;3;2;Private company;Unknown;Yes;City;Never;7000
+8054;463444;Male;Yes;61;Yes;High;2;4;Self-employed;No involvement;No;City;Never;7000
+8055;462202;Female;No;43;Yes;Low;4;2;Private company;Strong involvement;Yes;Country-side;Never;8261
+8056;467916;Female;Yes;48;Yes;Low;1;5;Private company;Unknown;No;City;Never;14566
+8057;461896;Male;Yes;46;Yes;Low;1;5;Private company;Unknown;No;City;Never;8261
+8058;459728;Female;Yes;53;Yes;Average;4;2;Private company;Unknown;No;City;Never;9522
+8059;467269;Male;Yes;65;Yes;Average;2;4;Private company;Unknown;No;City;Never;7000
+8060;459267;Female;No;31;No;Low;3;2;Private company;Some involvement;No;City;Never;12044
+8061;466710;Female;Yes;73;No;High;2;4;Private company;Unknown;No;City;Never;8261
+8062;459091;Male;Yes;67;Yes;Average;6;2;Private company;Unknown;Yes;City;Intervention in Syria;7000
+8063;462124;Male;No;36;Yes;Low;1;4;Private company;Unknown;No;City;Never;17088
+8064;464455;Female;Yes;74;Yes;High;2;4;Self-employed;No involvement;No;City;Never;8261
+8065;466000;Male;Yes;38;Yes;Low;2;2;Government;No involvement;Yes;City;Intervention in Syria;13305
+8066;462431;Male;No;32;No;Low;4;1;Private company;Strong involvement;No;City;Never;18349
+8067;464902;Female;Yes;68;No;Low;1;7;Self-employed;No involvement;Yes;Country-side;Never;7000
+8068;463114;Male;No;41;Yes;Low;3;2;Private company;Unknown;No;City;Never;7000
+8069;464345;Female;Yes;57;Yes;High;3;2;Private company;Unknown;No;City;Never;9522
+8070;460906;Female;Yes;89;Yes;High;3;3;Self-employed;No involvement;No;City;Never;8261
+8071;460157;Male;Yes;57;No;Low;5;2;;;Yes;Country-side;Never;8261
+8072;464772;Female;Yes;43;No;Average;4;2;Private company;No involvement;Yes;Country-side;Never;18349
+8073;459823;Male;Yes;67;Yes;Low;2;4;Public company;No involvement;No;City;Never;8261
+8074;465670;Female;No;48;No;Low;1;5;Private company;No involvement;Yes;Country-side;Never;22132
+8075;459501;Female;Yes;62;Yes;Average;7;1;Private company;Unknown;Yes;City;Intervention in Iraq;12044
+8076;467240;Female;;22;No;High;3;1;Government;No involvement;No;City;Never;14566
+8077;459334;Male;Yes;36;Yes;Low;3;2;Private company;Some involvement;No;City;Never;10783
+8078;464993;Male;Yes;57;No;High;4;2;Public company;No involvement;No;City;Never;12044
+8079;462319;Male;Yes;47;Yes;Average;2;3;Private company;Unknown;Yes;City;Never;8261
+8080;461651;Female;Yes;63;Yes;Average;3;3;Private company;Unknown;No;City;Never;8261
+8081;462800;Female;Yes;62;Yes;Average;2;4;Self-employed;No involvement;Yes;Country-side;Never;18349
+8082;459146;Male;Yes;69;Yes;Low;2;4;Private company;Unknown;No;City;Never;8261
+8083;461236;Female;No;30;Yes;Low;1;3;Private company;Some involvement;No;City;Never;18349
+8084;463279;Male;No;27;No;Low;3;1;Private company;Strong involvement;Yes;City;Never;7000
+8085;464965;Male;Yes;76;No;Low;7;2;Public company;No involvement;Yes;Country-side;Never;7000
+8086;459530;Female;Yes;37;Yes;High;2;2;Self-employed;No involvement;No;City;Never;8261
+8087;466981;Female;Yes;53;No;Low;3;2;Private company;No involvement;Yes;City;Intervention in Libya;7000
+8088;464173;Male;Yes;71;Yes;Average;3;3;Private company;Unknown;No;City;Never;14566
+8089;459656;Male;No;22;No;Low;6;1;;;Yes;City;Intervention in Syria;7000
+8090;464105;Male;Yes;65;Yes;Average;2;4;Private company;Strong involvement;No;City;Never;8261
+8091;461817;Female;No;25;No;Low;3;1;Government;No involvement;No;City;Never;8261
+8092;466396;Female;No;19;No;Low;5;1;Private company;Some involvement;Yes;City;Never;8261
+8093;459228;Female;Yes;52;Yes;Average;4;2;Private company;Unknown;No;City;Never;7000
+8094;463600;Male;No;33;No;Low;5;1;Private company;Some involvement;Yes;City;Never;10783
+8095;467787;Male;No;20;No;Low;5;1;Private company;Some involvement;No;City;Never;17088
+8096;467791;Male;No;21;No;Low;5;1;Government;No involvement;Yes;City;Intervention in Iraq;7000
+8097;464827;Female;Yes;46;No;Average;5;1;Private company;Strong involvement;Yes;Country-side;Never;18349
+8098;460252;Male;Yes;41;Yes;Low;2;3;Private company;Unknown;No;City;Never;7000
+8099;466430;Female;Yes;51;No;Low;4;2;Private company;No involvement;No;City;Never;7000
+8100;463172;Male;Yes;32;No;Low;2;2;Private company;Strong involvement;Yes;City;Never;9522
+8101;465336;Female;No;41;Yes;Low;1;5;Government;No involvement;Yes;Country-side;Never;18349
+8102;462002;Female;No;37;No;Low;2;2;Private company;Unknown;No;City;Never;7000
+8103;463502;Male;Yes;40;Yes;High;4;1;Public company;No involvement;No;City;Never;7000
+8104;466768;Female;Yes;36;Yes;Low;4;1;Private company;Unknown;No;City;Never;7000
+8105;464348;Male;No;43;Yes;Low;2;3;Private company;Unknown;No;City;Never;8261
+8106;464248;Male;Yes;52;Yes;Low;3;2;Private company;Unknown;No;City;Never;17088
+8107;460411;Male;Yes;43;Yes;High;2;3;Private company;Some involvement;No;City;Never;15827
+8108;466840;Male;No;20;No;Low;5;1;Private company;Some involvement;Yes;City;Never;12044
+8109;460678;Female;No;31;No;Low;2;2;Government;No involvement;Yes;City;Never;14566
+8110;464370;Male;Yes;65;Yes;Average;2;4;Private company;Strong involvement;No;City;Never;7000
+8111;465820;Female;;30;Yes;Average;4;1;;;Yes;Country-side;Never;7000
+8112;460325;Female;No;63;Yes;Low;1;7;Private company;Some involvement;No;City;Never;10783
+8113;463075;Male;Yes;52;Yes;Low;4;2;Private company;Unknown;No;City;Never;7000
+8114;464221;Male;Yes;56;Yes;Low;;;Private company;Strong involvement;Yes;Country-side;Never;7000
+8115;461291;Male;No;18;No;Low;2;1;Private company;Some involvement;No;City;Never;7000
+8116;462475;Male;Yes;35;Yes;Average;2;2;Private company;Unknown;No;City;Never;7000
+8117;464321;Female;No;28;;Low;3;1;Private company;No involvement;Yes;City;Never;7000
+8118;459594;Female;Yes;42;Yes;Low;1;5;Private company;Unknown;No;City;Never;13305
+8119;461066;Female;Yes;63;No;Average;3;3;Student;No involvement;Yes;City;Never;7000
+8120;460853;Female;Yes;63;Yes;High;3;3;Private company;Unknown;No;City;Never;8261
+8121;460813;Female;Yes;86;No;High;2;5;Self-employed;No involvement;No;City;Never;8261
+8122;462373;Male;Yes;36;Yes;High;3;2;Private company;Strong involvement;No;City;Never;18349
+8123;462516;Female;No;28;No;Low;3;1;Private company;No involvement;No;City;Never;7000
+8124;462245;Female;Yes;49;Yes;Average;3;2;Private company;Unknown;No;City;Never;8261
+8125;464437;Female;Yes;48;Yes;Average;4;2;Private company;No involvement;No;City;Never;7000
+8126;461517;Male;Yes;42;Yes;Average;3;2;Private company;Unknown;No;City;Never;7000
+8127;463924;Female;No;40;Yes;Low;1;4;Private company;Unknown;Yes;City;Intervention in Libya;8261
+8128;459141;Male;Yes;28;No;Average;2;2;Private company;Unknown;No;City;Never;7000
+8129;460724;Male;No;30;Yes;Low;4;1;Private company;Some involvement;No;City;Never;8261
+8130;464227;Male;Yes;89;Yes;High;2;5;Self-employed;No involvement;No;City;Never;7000
+8131;461819;Male;Yes;42;Yes;Average;2;3;Private company;Unknown;No;City;Never;7000
+8132;463931;Male;Yes;52;Yes;Average;2;3;Private company;Strong involvement;No;City;Never;7000
+8133;466198;Male;Yes;70;No;High;2;4;Self-employed;No involvement;Yes;City;Never;7000
+8134;461963;Female;No;43;Yes;Low;1;5;Private company;Unknown;No;City;Never;17088
+8135;464744;Male;Yes;55;Yes;Low;4;2;Private company;Strong involvement;Yes;Country-side;Never;7000
+8136;463303;Female;Yes;49;Yes;Average;4;2;Nothing;No involvement;No;City;Never;9522
+8137;462129;Female;No;41;Yes;Low;1;5;Private company;Unknown;No;City;Never;18349
+8138;461739;Female;Yes;46;Yes;Low;;;Private company;Unknown;No;City;Never;8261
+8139;459914;Male;No;38;Yes;Low;1;4;Private company;Unknown;Yes;Country-side;Never;9522
+8140;463129;Male;Yes;69;No;Low;1;7;Government;No involvement;No;City;Never;7000
+8141;461019;Male;No;18;No;Low;3;1;Private company;Some involvement;Yes;City;Never;7000
+8142;460475;Male;Yes;32;Yes;Average;2;2;Government;No involvement;Yes;City;Never;7000
+8143;462543;Female;Yes;38;Yes;Low;1;4;Private company;Unknown;Yes;City;Never;12044
+8144;461701;Male;Yes;40;No;Average;2;2;Private company;Unknown;Yes;City;Intervention in Libya;8261
+8145;460267;Female;No;27;Yes;Low;9;1;Private company;Some involvement;No;City;Never;8261
+8146;464218;Female;Yes;89;No;High;2;5;Self-employed;No involvement;No;City;Never;8261
+8147;459549;Male;No;22;No;Low;5;1;Private company;Some involvement;Yes;Country-side;Never;18349
+8148;460802;Male;Yes;70;Yes;High;2;4;Self-employed;No involvement;No;City;Never;7000
+8149;459968;Male;No;39;Yes;Low;1;4;Private company;Unknown;Yes;City;Intervention in Iraq;20871
+8150;467566;Male;Yes;49;No;High;3;2;Public company;No involvement;No;City;Never;7000
+8151;465501;Male;Yes;40;Yes;High;1;4;Private company;Unknown;Yes;Country-side;Never;23393
+8152;465778;Female;No;21;No;Low;;;Private company;Some involvement;Yes;City;Never;7000
+8153;467039;Male;Yes;26;No;Average;2;2;Nothing;No involvement;No;City;Never;18349
+8154;462795;Male;No;25;No;Low;3;1;Private company;Strong involvement;No;City;Never;23393
+8155;460146;Female;Yes;52;Yes;Average;3;2;Private company;No involvement;Yes;City;Never;8261
+8156;463042;Male;Yes;51;No;High;4;2;Public company;No involvement;No;City;Never;7000
+8157;463617;Male;No;29;No;Low;2;2;Student;No involvement;No;City;Never;8261
+8158;464185;Male;Yes;65;Yes;High;2;4;Private company;Unknown;No;City;Never;13305
+8159;464225;Female;No;31;No;Low;5;1;Government;No involvement;Yes;City;Never;8261
+8160;461387;Female;No;22;No;Low;3;1;Private company;Some involvement;Yes;City;Never;13305
+8161;464410;Male;Yes;40;Yes;Average;2;2;Private company;Unknown;No;City;Never;7000
+8162;463952;Male;Yes;51;No;Low;3;2;Private company;Unknown;Yes;Country-side;Never;12044
+8163;462563;Female;Yes;52;Yes;Average;2;3;Private company;Unknown;No;City;Never;7000
+8164;459416;Male;No;19;No;Low;3;1;Private company;Unknown;No;City;Never;19610
+8165;465438;Male;No;33;Yes;Low;6;1;Government;No involvement;Yes;Country-side;Never;18349
+8166;461258;Female;Yes;57;Yes;Average;3;2;Private company;Unknown;Yes;Country-side;Never;8261
+8167;463206;Male;Yes;77;No;Low;1;8;Self-employed;No involvement;No;City;Never;7000
+8168;466080;Male;;33;No;High;1;4;Student;No involvement;No;City;Never;8261
+8169;461170;Female;No;40;No;Low;3;2;Private company;No involvement;Yes;City;Never;7000
+8170;464119;Male;Yes;36;Yes;Average;2;2;Private company;Unknown;No;City;Never;7000
+8171;462835;Male;Yes;59;No;Average;4;2;Private company;No involvement;No;City;Never;7000
+8172;461611;Female;Yes;38;Yes;Average;2;2;Private company;Unknown;No;City;Never;13305
+8173;460152;Female;No;53;Yes;Low;1;6;Private company;Unknown;No;City;Never;8261
+8174;462514;Male;No;25;Yes;Low;2;2;Private company;Some involvement;Yes;Country-side;Never;7000
+8175;459751;Male;No;28;No;Low;6;1;Student;No involvement;No;City;Never;7000
+8176;464663;Male;Yes;73;No;High;2;4;Public company;No involvement;Yes;Country-side;Never;8261
+8177;467621;Male;Yes;76;Yes;Low;1;8;Self-employed;No involvement;No;City;Never;8261
+8178;462142;Female;No;42;Yes;Low;1;5;Private company;Unknown;No;City;Never;7000
+8179;463895;Female;Yes;70;No;Average;2;4;Government;No involvement;No;City;Never;7000
+8180;463463;Male;Yes;32;No;Low;2;2;Government;No involvement;No;City;Never;7000
+8181;464419;Male;Yes;52;Yes;Average;3;2;Private company;Unknown;No;City;Never;8261
+8182;464138;Female;No;27;Yes;Low;4;1;Private company;Some involvement;No;City;Never;7000
+8183;461343;Male;Yes;27;Yes;Average;2;2;Private company;Unknown;No;City;Never;14566
+8184;467872;Female;Yes;40;Yes;Average;4;1;Private company;No involvement;Yes;City;Intervention in Libya;8261
+8185;466054;Female;Yes;33;No;Average;4;1;Nothing;No involvement;Yes;Country-side;Never;17088
+8186;458985;Male;No;23;No;Low;4;1;Private company;Some involvement;No;City;Never;8261
+8187;461325;Male;No;61;Yes;Low;3;3;Private company;Strong involvement;Yes;City;Never;8261
+8188;463455;Male;Yes;46;No;Low;2;3;Private company;Unknown;No;City;Never;7000
+8189;465663;Female;No;70;Yes;Low;2;4;Private company;Unknown;No;City;Never;7000
+8190;462446;Male;No;22;No;Low;4;1;Private company;Some involvement;No;City;Never;7000
+8191;460444;Male;Yes;60;No;Low;1;6;Private company;Unknown;No;City;Never;7000
+8192;463488;Female;No;29;No;Low;4;1;Private company;No involvement;Yes;Country-side;Never;18349
+8193;465427;Male;No;33;Yes;Low;1;4;Private company;Unknown;No;City;Never;15827
+8194;464079;Female;Yes;36;No;Average;2;2;Government;No involvement;No;City;Never;24654
+8195;459923;Male;No;31;Yes;Low;2;2;Student;No involvement;Yes;City;Never;7000
+8196;463887;Female;Yes;56;Yes;Average;2;3;Private company;Unknown;No;City;Never;12044
+8197;462509;Female;Yes;46;Yes;Average;2;3;Private company;Unknown;No;City;Never;7000
+8198;467738;Male;Yes;43;Yes;Average;2;3;Government;No involvement;No;City;Never;10783
+8199;467476;Male;No;32;Yes;Low;4;1;Private company;Some involvement;No;City;Never;8261
+8200;463709;Male;Yes;35;Yes;High;2;2;Private company;Unknown;No;City;Never;8261
+8201;461225;Female;No;32;No;Low;6;1;Student;No involvement;No;City;Never;20871
+8202;464191;Female;No;45;Yes;Low;1;5;Private company;No involvement;No;City;Never;8261
+8203;464944;Female;Yes;37;Yes;Low;2;2;Private company;Strong involvement;Yes;Country-side;Never;7000
+8204;459563;Male;Yes;72;Yes;Low;2;4;Private company;Strong involvement;No;City;Never;15827
+8205;459240;Female;No;28;Yes;Low;1;3;Private company;Unknown;No;City;Never;8261
+8206;463524;Female;Yes;40;Yes;Average;2;2;Private company;Unknown;No;City;Never;14566
+8207;466463;Female;No;29;Yes;Low;4;1;Private company;Some involvement;Yes;Country-side;Never;9522
+8208;466816;Male;Yes;81;Yes;High;2;5;Self-employed;No involvement;No;City;Never;8261
+8209;464989;Male;Yes;47;No;Average;4;2;Private company;Strong involvement;No;City;Never;7000
+8210;461569;Male;Yes;63;Yes;Low;1;7;Private company;Unknown;No;City;Never;8261
+8211;464449;Female;No;67;Yes;Low;;;Private company;No involvement;No;City;Never;7000
+8212;459571;Female;Yes;53;Yes;High;4;2;Public company;No involvement;No;City;Never;7000
+8213;464496;Female;Yes;41;No;High;5;1;Student;No involvement;Yes;City;Never;8261
+8214;465533;Female;Yes;50;Yes;Average;4;2;Private company;Strong involvement;Yes;City;Never;7000
+8215;461399;Male;No;20;No;Low;4;1;Private company;Some involvement;No;City;Never;7000
+8216;465819;Female;No;42;Yes;Low;7;1;Private company;No involvement;Yes;Country-side;Never;8261
+8217;459254;Male;Yes;57;Yes;Low;1;6;Government;No involvement;No;City;Never;7000
+8218;463824;Female;Yes;37;No;Low;3;2;Private company;Unknown;No;City;Never;8261
+8219;466488;Male;Yes;62;Yes;Average;6;2;Private company;Strong involvement;No;City;Never;7000
+8220;463891;Male;Yes;75;Yes;Low;1;8;Self-employed;No involvement;No;City;Never;8261
+8221;465460;Male;No;49;Yes;Low;1;5;Private company;Unknown;No;City;Never;7000
+8222;467699;Female;Yes;32;Yes;Average;2;2;Government;No involvement;Yes;Country-side;Never;7000
+8223;464540;Female;Yes;42;Yes;Average;4;2;Private company;No involvement;Yes;Country-side;Never;8261
+8224;467539;Male;Yes;48;Yes;Average;4;2;Private company;Unknown;Yes;City;Intervention in Iraq;7000
+8225;462416;Male;Yes;45;No;Low;2;3;Private company;Unknown;Yes;Country-side;Never;7000
+8226;466442;Male;No;38;Yes;Low;1;4;Private company;Unknown;No;City;Never;8261
+8227;460599;Female;No;31;No;Low;1;4;Private company;No involvement;Yes;City;Never;7000
+8228;467619;Male;Yes;65;Yes;High;2;4;Self-employed;No involvement;No;City;Never;8261
+8229;459285;Male;No;76;Yes;Low;2;4;Self-employed;No involvement;No;City;Never;7000
+8230;460565;Female;Yes;42;No;Average;4;2;Nothing;No involvement;Yes;City;Never;17088
+8231;461861;Female;No;26;Yes;Low;5;1;Private company;Some involvement;Yes;Country-side;Never;8261
+8232;464132;Male;No;28;No;Low;2;2;Private company;Strong involvement;No;City;Never;8261
+8233;461890;Female;Yes;45;Yes;Average;2;3;Private company;Unknown;No;City;Never;7000
+8234;463017;Female;Yes;81;No;High;2;5;Self-employed;No involvement;No;City;Never;7000
+8235;459593;Male;No;19;No;Low;4;1;Private company;Some involvement;No;City;Never;7000
+8236;465431;Male;Yes;35;No;Low;2;2;Private company;Unknown;No;City;Never;7000
+8237;466083;Female;No;21;No;Low;2;2;Student;No involvement;Yes;City;Never;9522
+8238;466238;Male;No;20;No;Low;3;1;Private company;Some involvement;Yes;Country-side;Never;7000
+8239;462670;Male;Yes;89;Yes;Low;1;9;Government;No involvement;No;City;Never;7000
+8240;465367;Male;Yes;69;No;High;3;3;Public company;No involvement;No;City;Never;8261
+8241;467570;Male;No;18;No;Low;;;Private company;Some involvement;No;City;Never;24654
+8242;459140;Female;No;18;No;Low;6;1;Private company;Some involvement;No;City;Never;15827
+8243;465160;Male;Yes;62;Yes;High;3;3;Public company;No involvement;No;City;Never;8261
+8244;466797;Female;No;23;No;Low;4;1;Private company;Some involvement;No;City;Never;8261
+8245;464922;Female;No;20;No;Low;5;1;Private company;Some involvement;Yes;Country-side;Never;7000
+8246;459703;Male;Yes;37;Yes;Low;3;2;Private company;Unknown;No;City;Never;7000
+8247;461015;Male;Yes;40;Yes;Average;2;2;Private company;Strong involvement;Yes;City;Never;8261
+8248;460249;Female;No;25;Yes;Low;2;2;Private company;Strong involvement;No;City;Never;18349
+8249;463635;Female;Yes;41;Yes;Low;3;2;Private company;Unknown;No;City;Never;7000
+8250;459861;Female;Yes;83;No;High;2;5;Self-employed;No involvement;No;City;Never;8261
+8251;463339;Female;Yes;27;Yes;Low;2;2;Private company;No involvement;Yes;City;Never;12044
+8252;461898;Male;Yes;60;Yes;High;3;2;Public company;No involvement;No;City;Never;13305
+8253;463349;Male;No;20;No;Low;5;1;Private company;Some involvement;Yes;City;Never;13305
+8254;466721;Male;Yes;36;Yes;Average;2;2;Government;No involvement;No;City;Never;15827
+8255;467853;Female;Yes;63;Yes;Average;5;2;Private company;Unknown;Yes;City;Never;8261
+8256;464167;Male;Yes;53;Yes;High;3;2;Public company;No involvement;No;City;Never;12044
+8257;462529;Female;Yes;42;Yes;Low;2;3;Private company;No involvement;No;City;Never;8261
+8258;464968;Male;No;43;No;Low;5;1;Public company;No involvement;No;City;Never;7000
+8259;459746;Male;;56;Yes;Average;2;3;Private company;Unknown;No;City;Never;8261
+8260;462544;Male;Yes;30;Yes;Average;3;1;Private company;Strong involvement;Yes;Country-side;Never;7000
+8261;463390;Female;Yes;50;Yes;Average;2;3;Private company;Unknown;Yes;City;Never;7000
+8262;467385;Male;No;47;No;Low;;;Private company;Unknown;Yes;Country-side;Never;8261
+8263;467760;Female;Yes;53;Yes;Average;5;2;Private company;Unknown;No;City;Never;12044
+8264;459241;Male;Yes;46;No;Low;5;1;Private company;Strong involvement;No;City;Never;7000
+8265;459002;Female;Yes;45;No;Low;2;3;Private company;No involvement;No;City;Never;9522
+8266;459464;Male;No;29;Yes;Low;2;2;Private company;Unknown;No;City;Never;7000
+8267;460817;Female;No;20;No;Low;7;1;Private company;Strong involvement;Yes;City;Never;7000
+8268;461985;Male;No;31;Yes;Low;;;Private company;Strong involvement;Yes;City;Intervention in Libya;7000
+8269;460821;Female;No;31;Yes;Low;2;2;Private company;Some involvement;Yes;Country-side;Never;7000
+8270;466665;Male;Yes;42;Yes;Average;2;3;Private company;Unknown;No;City;Never;7000
+8271;465685;Male;No;38;Yes;Low;2;2;Private company;Some involvement;Yes;City;Never;14566
+8272;461886;Male;Yes;33;Yes;Low;2;2;Private company;Some involvement;No;City;Never;18349
+8273;466473;Female;No;22;No;Low;3;1;Private company;Some involvement;Yes;City;Never;7000
+8274;466594;Male;Yes;72;Yes;High;2;4;Public company;No involvement;No;City;Never;8261
+8275;466670;Male;Yes;29;Yes;Average;2;2;Private company;Some involvement;Yes;City;Never;9522
+8276;466622;Female;No;47;Yes;Low;1;5;Private company;Strong involvement;No;City;Never;8261
+8277;467752;Male;Yes;31;No;Average;3;2;Public company;No involvement;Yes;Country-side;Never;7000
+8278;461891;Male;Yes;48;Yes;Average;2;3;Private company;Unknown;No;City;Never;7000
+8279;465984;Male;;23;No;High;5;1;Private company;Some involvement;No;City;Never;17088
+8280;463937;Male;No;27;Yes;Low;4;1;Private company;Strong involvement;Yes;City;Never;7000
+8281;462682;Male;No;25;No;Low;7;1;Private company;Strong involvement;No;City;Never;9522
+8282;459532;Female;Yes;27;Yes;Low;2;2;Private company;Some involvement;No;City;Never;7000
+8283;462022;Female;Yes;37;Yes;Average;3;2;Private company;Unknown;Yes;City;Never;8261
+8284;462101;Male;Yes;53;Yes;Average;3;2;Private company;Unknown;No;City;Never;7000
+8285;467209;Female;No;35;Yes;Low;1;4;Private company;Some involvement;No;City;Never;8261
+8286;466008;Male;Yes;36;Yes;Low;2;2;Private company;Unknown;No;City;Never;8261
+8287;463287;Male;Yes;50;Yes;Average;4;2;Private company;Unknown;Yes;City;Never;8261
+8288;458988;Female;No;29;No;Low;3;1;Student;No involvement;No;City;Never;9522
+8289;460529;Male;No;33;No;Low;;;Private company;Unknown;Yes;City;Never;7000
+8290;461040;Female;Yes;69;No;Low;1;7;Self-employed;No involvement;Yes;City;Never;7000
+8291;464590;Female;No;27;Yes;Low;3;1;Private company;Unknown;No;City;Never;24654
+8292;461614;Female;No;25;;Low;1;3;Private company;Some involvement;Yes;Country-side;Never;8261
+8293;465353;Male;Yes;73;Yes;Average;2;4;Private company;Unknown;No;City;Never;8261
+8294;461326;Female;No;36;Yes;Low;1;4;Private company;Unknown;No;City;Never;8261
+8295;463866;Male;Yes;40;Yes;Average;4;1;Private company;Unknown;No;City;Never;8261
+8296;467856;Male;Yes;59;Yes;Low;2;3;Private company;Unknown;No;City;Never;8261
+8297;463087;Female;Yes;35;Yes;Average;2;2;Nothing;No involvement;Yes;Country-side;Never;18349
+8298;467127;Male;Yes;70;No;Low;1;7;Self-employed;No involvement;No;City;Never;7000
+8299;463566;Female;Yes;41;Yes;Average;4;2;Nothing;No involvement;Yes;City;Never;7000
+8300;461272;Male;Yes;67;Yes;Low;1;7;Private company;Unknown;Yes;City;Never;7000
+8301;464623;Male;Yes;35;Yes;High;2;2;Private company;Strong involvement;Yes;City;Never;18349
+8302;464299;Female;No;35;Yes;Low;3;2;Private company;Unknown;No;City;Never;22132
+8303;467772;Female;No;25;No;Low;2;2;Student;No involvement;No;City;Never;8261
+8304;462813;Male;Yes;37;No;Average;5;1;Public company;No involvement;No;City;Never;7000
+8305;460125;Female;Yes;55;Yes;Low;1;6;Private company;Unknown;No;City;Never;19610
+8306;463134;Male;No;29;Yes;Low;1;3;Private company;Strong involvement;No;City;Never;7000
+8307;466481;Male;No;40;Yes;Low;1;4;Private company;Unknown;Yes;City;Never;9522
+8308;466302;Female;Yes;47;No;High;3;2;Nothing;No involvement;No;City;Never;10783
+8309;461913;Male;No;37;Yes;Low;4;1;Private company;Strong involvement;Yes;City;Never;14566
+8310;463512;Female;No;30;No;Low;3;1;Private company;No involvement;No;City;Never;7000
+8311;465463;Female;No;28;No;Low;5;1;Government;No involvement;Yes;City;Never;7000
+8312;459248;Male;Yes;58;Yes;Average;4;2;Public company;No involvement;Yes;City;Never;10783
+8313;467456;Male;Yes;36;No;High;4;1;Public company;No involvement;No;City;Never;15827
+8314;464054;Male;Yes;31;Yes;Average;2;2;Private company;Unknown;No;City;Never;17088
+8315;467024;Male;Yes;40;Yes;Average;5;1;Private company;Strong involvement;No;City;Never;18349
+8316;460713;Male;Yes;50;Yes;Average;3;2;Government;No involvement;No;City;Never;7000
+8317;464776;Female;Yes;47;No;Average;5;1;Private company;No involvement;Yes;Country-side;Never;7000
+8318;466938;Male;Yes;63;Yes;Low;1;7;Private company;Unknown;No;City;Never;17088
+8319;462187;Female;No;50;Yes;Low;1;5;Private company;Unknown;No;City;Never;12044
+8320;464560;Male;No;39;Yes;Low;2;2;Private company;Strong involvement;No;City;Never;18349
+8321;461335;Male;Yes;51;No;High;2;3;Public company;No involvement;No;City;Never;18349
+8322;466012;Male;Yes;56;;Average;3;2;Private company;Unknown;Yes;Country-side;Never;9522
+8323;467618;Male;No;26;No;Low;2;2;Government;No involvement;No;City;Never;14566
+8324;461996;Female;No;35;No;Low;4;1;Private company;Unknown;No;City;Never;13305
+8325;467486;Female;Yes;46;Yes;Average;5;1;Private company;No involvement;No;City;Never;8261
+8326;466259;Male;No;20;No;Low;2;1;Private company;Some involvement;No;City;Never;8261
+8327;460862;Male;Yes;52;No;Average;4;2;Private company;Strong involvement;Yes;City;Never;8261
+8328;466351;Female;No;22;No;Low;3;1;Private company;Some involvement;Yes;Country-side;Never;9522
+8329;465140;Male;Yes;45;Yes;High;3;2;Public company;No involvement;Yes;City;Intervention in Iraq;13305
+8330;467703;Male;No;26;Yes;Low;5;1;Private company;Some involvement;No;City;Never;8261
+8331;466257;Female;No;32;No;Low;4;1;Private company;Some involvement;No;City;Never;7000
+8332;459315;Female;Yes;27;Yes;Low;2;2;Government;No involvement;Yes;Country-side;Never;8261
+8333;465688;Female;Yes;62;;Average;3;3;Private company;Unknown;Yes;City;Never;8261
+8334;465452;Male;Yes;47;No;High;5;1;Private company;Strong involvement;No;City;Never;7000
+8335;467598;Male;Yes;68;Yes;Low;1;7;Private company;Unknown;No;City;Never;8261
+8336;461116;Male;Yes;30;No;High;4;1;Public company;No involvement;Yes;City;Never;12044
+8337;467166;Female;Yes;25;No;Average;2;2;Nothing;No involvement;No;City;Never;17088
+8338;462341;Male;Yes;61;Yes;Average;2;4;Private company;Unknown;No;City;Never;9522
+8339;467054;Male;No;23;No;Low;3;1;Private company;Some involvement;No;City;Never;8261
+8340;462644;Male;Yes;25;No;Average;3;1;Private company;No involvement;Yes;Country-side;Never;7000
+8341;462626;Female;No;26;Yes;Low;6;1;Private company;No involvement;Yes;Country-side;Never;7000
+8342;465123;Female;No;28;Yes;Low;3;1;Private company;Some involvement;No;City;Never;8261
+8343;462387;Female;Yes;28;Yes;Low;2;2;Private company;Unknown;Yes;City;Intervention in Iraq;7000
+8344;461381;Male;Yes;31;Yes;Average;2;2;Private company;Strong involvement;No;City;Never;7000
+8345;464734;Female;No;42;No;Low;3;2;Private company;Strong involvement;Yes;Country-side;Never;15827
+8346;459446;Male;Yes;36;No;Average;3;2;Private company;Strong involvement;No;City;Never;7000
+8347;462531;Female;Yes;59;No;High;2;3;Nothing;No involvement;No;City;Never;7000
+8348;460465;Male;No;36;No;Low;3;2;Public company;No involvement;No;City;Never;7000
+8349;465309;Female;No;18;No;Low;4;1;Private company;Some involvement;Yes;City;Intervention in Iraq;14566
+8350;467078;Female;Yes;26;No;High;2;2;Private company;Some involvement;Yes;City;Intervention in Iraq;7000
+8351;461210;Female;No;38;Yes;Low;4;1;Private company;Some involvement;No;City;Never;7000
+8352;466533;Female;No;51;Yes;Low;1;6;Private company;Strong involvement;No;City;Never;8261
+8353;459132;Male;No;20;No;Low;2;1;Private company;Strong involvement;No;City;Never;13305
+8354;465893;Female;Yes;43;Yes;Average;2;3;Private company;No involvement;No;City;Never;7000
+8355;460990;Male;No;22;No;Low;3;1;Private company;Some involvement;No;City;Never;8261
+8356;465789;Male;No;18;No;Low;4;1;Private company;Some involvement;Yes;Country-side;Never;12044
+8357;462640;Male;Yes;27;No;Low;2;2;Public company;No involvement;Yes;Country-side;Never;7000
+8358;465603;Female;Yes;45;Yes;Low;;;Nothing;No involvement;Yes;City;Never;17088
+8359;466101;Female;No;22;No;Low;7;1;Private company;Some involvement;No;City;Never;7000
+8360;463414;Male;Yes;25;No;High;3;1;Public company;No involvement;Yes;City;Intervention in Syria;7000
+8361;460369;Female;Yes;50;Yes;Low;2;3;Private company;Unknown;No;City;Never;7000
+8362;459692;Female;Yes;71;Yes;High;2;4;Self-employed;No involvement;No;City;Never;17088
+8363;466221;Male;Yes;48;Yes;Low;1;5;Private company;Unknown;No;City;Never;12044
+8364;459327;Male;No;50;No;Low;3;2;Government;No involvement;No;City;Never;18349
+8365;459578;Male;Yes;35;Yes;Average;5;1;Public company;No involvement;No;City;Never;9522
+8366;465948;Female;Yes;46;Yes;Average;2;3;Private company;Unknown;No;City;Never;8261
+8367;460255;Female;No;38;Yes;Low;1;4;Government;No involvement;No;City;Never;24654
+8368;463270;Male;Yes;52;No;Low;5;2;Public company;No involvement;;;;8261
+8369;463927;Female;No;53;Yes;Low;2;3;Private company;No involvement;No;City;Never;8261
+8370;465810;Female;No;28;No;Low;2;2;Private company;No involvement;Yes;Country-side;Never;8261
+8371;467876;Female;Yes;47;Yes;High;2;3;Private company;Unknown;No;City;Never;17088
+8372;462223;Male;Yes;78;No;Low;1;8;;;Yes;Country-side;Never;7000
+8373;467555;Male;No;27;No;Low;3;1;Private company;Strong involvement;No;City;Never;24654
+8374;467812;Male;No;50;Yes;Low;1;5;Private company;Unknown;Yes;City;Never;8261
+8375;460739;Male;Yes;41;Yes;High;5;1;Public company;No involvement;No;City;Never;7000
+8376;461157;Male;No;37;No;Low;5;1;Private company;Some involvement;Yes;City;Never;7000
+8377;465404;Female;Yes;25;Yes;Average;2;2;Private company;Strong involvement;Yes;City;Intervention in Syria;7000
+8378;467628;Male;Yes;73;No;High;3;3;Public company;No involvement;No;City;Never;7000
+8379;462827;Female;No;22;No;Low;3;1;Government;No involvement;Yes;City;Never;8261
+8380;463669;Female;Yes;31;Yes;High;4;1;Student;No involvement;Yes;City;Never;15827
+8381;465263;Male;Yes;65;Yes;High;2;4;Private company;Unknown;No;City;Never;8261
+8382;462041;Female;No;22;No;Low;2;2;Government;No involvement;Yes;Country-side;Never;7000
+8383;462253;Male;Yes;51;Yes;Low;2;3;Private company;No involvement;Yes;Country-side;Never;7000
+8384;465662;Male;Yes;76;No;Low;1;8;Public company;No involvement;No;City;Never;8261
+8385;460297;Female;Yes;46;Yes;Low;2;3;Private company;Unknown;No;City;Never;17088
+8386;462156;Female;Yes;43;Yes;Average;2;3;Private company;Unknown;Yes;City;Never;12044
+8387;465573;Male;Yes;41;No;Average;6;1;Private company;Unknown;No;City;Never;8261
+8388;466486;Female;Yes;43;Yes;Low;2;3;Government;No involvement;Yes;Country-side;Never;18349
+8389;461216;Female;No;43;No;Low;;;;;No;City;Never;7000
+8390;466556;Male;No;21;No;Low;3;1;Private company;Some involvement;No;City;Never;8261
+8391;467574;Male;No;32;Yes;Low;;;Private company;Some involvement;Yes;City;Never;12044
+8392;465549;Female;No;52;Yes;Low;1;6;Private company;Some involvement;Yes;City;Never;7000
+8393;464270;Female;No;45;Yes;Low;1;5;Private company;Unknown;No;City;Never;10783
+8394;463842;Female;Yes;48;Yes;High;4;2;Private company;No involvement;No;City;Never;7000
+8395;467230;Male;No;21;No;Low;4;1;Private company;Some involvement;No;City;Never;7000
+8396;466128;Male;No;35;Yes;Low;2;2;Private company;Unknown;No;City;Never;12044
+8397;462594;Male;Yes;52;No;Average;5;2;Private company;Strong involvement;Yes;Country-side;Never;7000
+8398;466194;Male;Yes;89;No;Low;1;9;Self-employed;No involvement;No;City;Never;7000
+8399;466580;Male;No;19;No;Low;4;1;Private company;Some involvement;Yes;City;Intervention in Iraq;8261
+8400;467480;Male;Yes;35;Yes;Average;;;Private company;Unknown;No;City;Never;7000
+8401;463252;Male;Yes;50;Yes;Average;2;3;Private company;Unknown;No;City;Never;7000
+8402;462394;Male;Yes;35;Yes;Average;2;2;Private company;Unknown;No;City;Never;7000
+8403;465125;Female;No;39;Yes;Low;1;4;Private company;Unknown;No;City;Never;18349
+8404;464505;Female;No;30;No;Low;5;1;Government;No involvement;No;City;Never;18349
+8405;467569;Male;No;19;No;Low;4;1;Private company;Some involvement;No;City;Never;7000
+8406;464372;Male;Yes;45;Yes;Average;6;1;Private company;Unknown;Yes;City;Intervention in Libya;8261
+8407;465130;Female;Yes;50;Yes;Average;9;1;Private company;Unknown;No;City;Never;7000
+8408;466410;Female;Yes;56;Yes;Low;1;6;Private company;Unknown;No;City;Never;7000
+8409;464317;Male;Yes;60;Yes;Average;3;2;Private company;Strong involvement;No;City;Never;8261
+8410;460022;Female;Yes;39;Yes;Low;2;2;Private company;Some involvement;No;City;Never;12044
+8411;461969;Female;Yes;46;No;Average;1;5;Private company;No involvement;Yes;Country-side;Never;18349
+8412;463809;Female;No;30;Yes;Low;3;1;Private company;Some involvement;No;City;Never;9522
+8413;462722;Female;No;27;No;Low;4;1;Nothing;No involvement;No;City;Never;7000
+8414;460229;Female;Yes;68;Yes;High;2;4;Self-employed;No involvement;No;City;Never;9522
+8415;464036;Female;No;25;Yes;Low;1;3;Government;No involvement;No;City;Never;10783
+8416;466656;Male;Yes;89;Yes;High;2;5;Student;No involvement;No;City;Never;8261
+8417;466469;Female;No;23;No;Low;4;1;Private company;Some involvement;Yes;City;Never;8261
+8418;467040;Male;No;32;Yes;Low;4;1;Government;No involvement;Yes;City;Never;7000
+8419;459387;Male;No;35;Yes;Low;1;4;Government;No involvement;No;City;Never;7000
+8420;460871;Female;No;27;Yes;Low;;;Private company;Some involvement;No;City;Never;7000
+8421;465660;Male;Yes;48;Yes;Low;3;2;Private company;Unknown;No;City;Never;8261
+8422;462173;Male;Yes;89;Yes;Low;3;3;Public company;No involvement;No;City;Never;10783
+8423;459576;Female;Yes;85;No;Low;;;Self-employed;No involvement;;;;7000
+8424;459004;Female;Yes;51;Yes;High;5;2;Private company;Unknown;No;City;Never;8261
+8425;461655;Female;Yes;35;Yes;Average;2;2;Nothing;No involvement;No;City;Never;18349
+8426;465209;Male;Yes;47;Yes;Average;2;3;Private company;Unknown;Yes;City;Never;7000
+8427;466078;Female;Yes;51;No;Low;1;6;Public company;No involvement;No;City;Never;7000
+8428;460767;Male;Yes;57;Yes;Average;5;2;Private company;Strong involvement;Yes;City;Never;17088
+8429;465523;Female;Yes;45;Yes;High;5;1;Private company;No involvement;No;City;Never;7000
+8430;458999;Male;Yes;55;Yes;Average;2;3;Private company;Unknown;No;City;Never;8261
+8431;465563;Male;Yes;59;Yes;Average;5;2;Private company;Strong involvement;Yes;City;Never;8261
+8432;467345;Male;Yes;76;Yes;Low;1;8;Self-employed;No involvement;No;City;Never;8261
+8433;466770;Female;Yes;85;Yes;Low;5;2;Self-employed;No involvement;No;City;Never;7000
+8434;461889;Male;Yes;42;Yes;Average;2;3;Private company;Unknown;No;City;Never;9522
+8435;463959;Female;No;37;No;Low;1;4;Private company;Unknown;No;City;Never;8261
+8436;461678;Female;Yes;87;No;Low;1;9;Self-employed;No involvement;No;City;Never;8261
+8437;463376;Female;Yes;45;Yes;High;2;3;Public company;No involvement;No;City;Never;15827
+8438;467640;Female;Yes;38;Yes;Low;3;2;Private company;Unknown;No;City;Never;7000
+8439;459895;Male;Yes;38;Yes;Average;2;2;;;No;City;Never;18349
+8440;461706;Male;No;25;Yes;Low;3;1;Private company;Some involvement;No;City;Never;7000
+8441;461409;Male;Yes;43;No;High;3;2;Private company;Unknown;No;City;Never;8261
+8442;465381;Female;No;25;No;Low;4;1;Student;No involvement;No;City;Never;7000
+8443;462486;Male;Yes;51;Yes;Average;5;2;Public company;No involvement;No;City;Never;8261
+8444;466906;Male;No;59;Yes;Low;2;3;Private company;Unknown;No;City;Never;8261
+8445;464857;Male;No;18;No;Low;4;1;Private company;Some involvement;Yes;Country-side;Never;14566
+8446;459889;Male;Yes;63;Yes;Average;3;3;Nothing;No involvement;No;City;Never;17088
+8447;464233;Female;Yes;48;Yes;Average;2;3;Private company;Unknown;No;City;Never;8261
+8448;465519;Female;Yes;73;No;High;2;4;Self-employed;No involvement;No;City;Never;8261
+8449;462762;Male;Yes;48;Yes;High;4;2;Private company;Unknown;No;City;Never;7000
+8450;467311;Male;Yes;67;Yes;High;3;3;Self-employed;No involvement;No;City;Never;8261
+8451;460682;Male;Yes;43;No;Low;2;3;Private company;Unknown;Yes;City;Never;14566
+8452;465988;Female;Yes;58;Yes;High;2;3;Nothing;No involvement;Yes;City;Intervention in Libya;7000
+8453;461979;Male;Yes;35;Yes;Average;2;2;Private company;Unknown;No;City;Never;18349
+8454;461713;Female;No;27;Yes;Low;5;1;Private company;Unknown;No;City;Never;8261
+8455;467002;Female;No;26;Yes;Low;;;Nothing;No involvement;No;City;Never;18349
+8456;461540;Male;No;38;Yes;Low;2;2;;;Yes;City;Never;10783
+8457;459632;Female;Yes;52;No;High;3;2;Student;No involvement;Yes;Country-side;Never;8261
+8458;461612;Female;No;31;Yes;Low;5;1;Private company;Some involvement;No;City;Never;17088
+8459;459395;Male;Yes;42;No;Low;2;3;Public company;No involvement;No;City;Never;17088
+8460;464156;Male;Yes;62;Yes;Low;1;7;Private company;Unknown;No;City;Never;19610
+8461;464608;Female;Yes;49;Yes;Average;3;2;Private company;Unknown;No;City;Never;7000
+8462;462165;Male;Yes;70;Yes;High;2;4;Self-employed;No involvement;No;City;Never;10783
+8463;466256;Female;Yes;65;Yes;Low;1;7;Private company;No involvement;No;City;Never;8261
+8464;460607;Male;Yes;36;Yes;Average;4;1;Private company;Unknown;Yes;City;Intervention in Iraq;18349
+8465;464848;Male;Yes;35;No;Average;4;1;Private company;Strong involvement;Yes;Country-side;Never;8261
+8466;461738;Female;Yes;46;Yes;Average;3;2;;;No;City;Never;7000
+8467;466417;Female;Yes;79;No;High;3;3;Self-employed;No involvement;No;City;Never;8261
+8468;467537;Female;Yes;68;No;High;3;3;Self-employed;No involvement;No;City;Never;7000
+8469;459973;Female;No;50;Yes;Low;2;3;Private company;Unknown;No;City;Never;7000
+8470;461006;Male;;22;No;High;;;Private company;Some involvement;Yes;City;Never;8261
+8471;466546;Female;Yes;69;Yes;High;2;4;Self-employed;No involvement;No;City;Never;8261
+8472;464668;Male;Yes;32;No;High;4;1;Private company;Some involvement;Yes;Country-side;Never;8261
+8473;464942;Male;No;19;No;Low;4;1;Private company;Some involvement;Yes;Country-side;Never;12044
+8474;459214;Female;No;26;Yes;Low;3;1;Private company;No involvement;No;City;Never;7000
+8475;462365;Male;Yes;75;Yes;High;2;4;Self-employed;No involvement;No;City;Never;7000
+8476;465600;Male;Yes;40;Yes;Low;2;2;Private company;No involvement;Yes;City;Never;15827
+8477;464674;Male;Yes;50;No;Average;5;1;Private company;Unknown;Yes;Country-side;Never;8261
+8478;466535;Male;No;26;Yes;Low;1;3;Private company;Unknown;No;City;Never;17088
+8479;462277;Male;Yes;36;Yes;Average;2;2;Private company;Strong involvement;Yes;City;Never;12044
+8480;459716;Female;Yes;66;Yes;Average;2;4;Private company;No involvement;No;City;Never;17088
+8481;466833;Male;Yes;58;Yes;Low;2;3;Private company;Unknown;No;City;Never;15827
+8482;459059;Male;Yes;87;No;High;2;5;Public company;No involvement;No;City;Never;7000
+8483;464031;Female;No;23;No;Low;4;1;Private company;Some involvement;No;City;Never;8261
+8484;463971;Female;Yes;57;Yes;Average;4;2;Private company;Unknown;No;City;Never;7000
+8485;462096;Female;No;43;Yes;Low;1;5;Nothing;No involvement;Yes;Country-side;Never;7000
+8486;461772;Female;Yes;41;Yes;Average;3;2;Private company;No involvement;Yes;Country-side;Never;8261
+8487;466667;Female;No;42;No;Low;2;3;Student;No involvement;No;City;Never;13305
+8488;464088;Male;No;27;No;Low;3;1;Government;No involvement;No;City;Never;8261
+8489;465987;Male;;20;No;Low;3;1;Private company;Some involvement;Yes;City;Never;8261
+8490;463594;Female;Yes;35;Yes;Average;2;2;Private company;Unknown;No;City;Never;15827
+8491;461438;Female;Yes;39;Yes;Average;2;2;Private company;No involvement;No;City;Never;17088
+8492;460959;Female;No;28;No;Low;5;1;Private company;Unknown;Yes;City;Never;13305
+8493;462617;Male;No;19;No;Low;5;1;Private company;Some involvement;Yes;Country-side;Never;7000
+8494;459183;Female;No;26;Yes;Low;3;1;Private company;Unknown;Yes;City;Never;8261
+8495;465585;Male;Yes;69;No;Low;1;7;Government;No involvement;No;City;Never;8261
+8496;463467;Female;No;23;No;Low;4;1;Private company;Some involvement;;;;7000
+8497;462506;Male;No;31;No;Low;4;1;Private company;Some involvement;No;City;Never;8261
+8498;461235;Female;No;50;Yes;Low;1;5;Private company;Some involvement;No;City;Never;7000
+8499;467763;Female;No;48;Yes;Low;1;5;Private company;Unknown;Yes;City;Never;8261
+8500;463491;Male;Yes;27;Yes;Average;3;1;Government;No involvement;No;City;Never;18349
+8501;464275;Male;No;30;No;Low;5;1;Government;No involvement;No;City;Never;7000
+8502;461814;Female;No;37;Yes;Low;1;4;Private company;Unknown;Yes;City;Never;8261
+8503;464983;Female;Yes;25;No;Low;2;2;Private company;Strong involvement;No;City;Never;9522
+8504;467579;Male;No;38;Yes;Low;1;4;Government;No involvement;No;City;Never;15827
+8505;463850;Male;Yes;26;No;High;2;2;Private company;Strong involvement;No;City;Never;7000
+8506;467097;Male;Yes;55;Yes;Low;1;6;Private company;Unknown;No;City;Never;9522
+8507;464481;Male;Yes;46;Yes;High;3;2;Public company;No involvement;No;City;Never;7000
+8508;460337;Female;No;42;Yes;Low;3;2;Student;No involvement;No;City;Never;19610
+8509;466989;Female;Yes;40;Yes;Average;2;2;Private company;Unknown;Yes;City;Never;18349
+8510;462782;Male;Yes;57;Yes;High;2;3;Public company;No involvement;Yes;Country-side;Never;15827
+8511;461441;Male;Yes;58;Yes;Average;4;2;Private company;Unknown;No;City;Never;8261
+8512;461418;Male;No;45;Yes;Low;4;2;Private company;Unknown;No;City;Never;7000
+8513;461719;Male;Yes;82;Yes;Low;1;9;Self-employed;No involvement;No;City;Never;7000
+8514;463273;Male;Yes;37;Yes;Average;2;2;Private company;Strong involvement;Yes;City;Never;17088
+8515;461347;Female;Yes;37;Yes;Average;3;2;Private company;Unknown;No;City;Never;13305
+8516;461053;Male;Yes;39;No;High;4;1;Public company;No involvement;Yes;City;Never;7000
+8517;458991;Female;Yes;84;Yes;High;2;5;Self-employed;No involvement;No;City;Never;10783
+8518;467820;Male;Yes;51;Yes;Low;1;6;Private company;Unknown;Yes;City;Never;7000
+8519;461590;Male;Yes;41;No;High;4;2;Public company;No involvement;No;City;Never;8261
+8520;461255;Male;No;18;No;Low;5;1;Private company;Some involvement;Yes;Country-side;Never;8261
+8521;463567;Male;Yes;40;Yes;Average;2;2;Government;No involvement;No;City;Never;8261
+8522;459220;Female;Yes;77;Yes;High;2;4;Self-employed;No involvement;No;City;Never;8261
+8523;466555;Male;No;18;No;Low;3;1;Private company;Some involvement;No;City;Never;8261
+8524;459437;Male;Yes;68;Yes;High;2;4;Self-employed;No involvement;No;City;Never;7000
+8525;459980;Male;No;40;No;Low;2;2;Private company;No involvement;No;City;Never;8261
+8526;459231;Female;Yes;43;Yes;Average;4;2;Private company;Unknown;No;City;Never;10783
+8527;466356;Male;Yes;46;Yes;Low;2;3;Private company;Unknown;No;City;Never;7000
+8528;460178;Male;Yes;50;Yes;Low;2;3;Private company;Strong involvement;No;City;Never;8261
+8529;460097;Male;;43;Yes;Low;2;3;Private company;Unknown;Yes;City;Never;7000
+8530;467371;Male;No;30;Yes;Low;4;1;Private company;Some involvement;No;City;Never;8261
+8531;467325;Female;Yes;72;Yes;High;2;4;Self-employed;No involvement;No;City;Never;8261
+8532;460749;Male;No;36;Yes;Low;2;2;Private company;Strong involvement;No;City;Never;8261
+8533;459312;Male;No;22;No;Low;4;1;Private company;Some involvement;Yes;Country-side;Never;8261
+8534;461746;Male;Yes;53;Yes;Average;3;2;Private company;Unknown;No;City;Never;9522
+8535;465489;Female;No;50;Yes;Low;5;1;Private company;No involvement;No;City;Never;8261
+8536;463000;Female;No;36;No;Low;1;4;Private company;No involvement;No;City;Never;7000
+8537;459185;Female;No;25;Yes;Low;1;3;Private company;Strong involvement;No;City;Never;13305
+8538;462346;Male;Yes;81;Yes;Low;1;9;Self-employed;No involvement;No;City;Never;18349
+8539;464035;Male;Yes;62;Yes;High;4;2;Public company;No involvement;No;City;Never;8261
+8540;459819;Male;Yes;71;Yes;High;2;4;Private company;Strong involvement;No;City;Never;7000
+8541;466178;Female;Yes;50;Yes;Average;4;2;Private company;Unknown;No;City;Never;8261
+8542;463922;Female;No;32;No;Low;5;1;Private company;Some involvement;Yes;City;Intervention in Syria;9522
+8543;459783;Female;Yes;18;No;High;;;Private company;Unknown;Yes;City;Intervention in Syria;7000
+8544;463970;Female;No;25;No;Low;5;1;Private company;Some involvement;Yes;Country-side;Never;8261
+8545;462183;Male;No;22;No;Low;4;1;Student;No involvement;No;City;Never;7000
+8546;459558;Male;No;30;Yes;Low;3;1;Private company;Strong involvement;No;City;Never;7000
+8547;463597;Female;No;25;No;Low;6;1;Private company;No involvement;No;City;Never;7000
+8548;466761;Female;Yes;48;Yes;Low;1;5;Private company;Strong involvement;Yes;City;Intervention in Syria;9522
+8549;462407;Male;Yes;37;No;Average;4;1;Government;No involvement;No;City;Never;9522
+8550;461610;Male;No;36;Yes;Low;1;4;Government;No involvement;No;City;Never;7000
+8551;463062;Female;Yes;37;Yes;Average;3;2;Private company;Unknown;No;City;Never;7000
+8552;460930;Male;No;26;Yes;Low;5;1;Private company;Unknown;No;City;Never;19610
+8553;464900;Male;Yes;71;No;Low;2;4;Self-employed;No involvement;Yes;Country-side;Never;8261
+8554;459188;Male;No;27;No;Low;3;1;Private company;Some involvement;No;City;Never;8261
+8555;461572;Female;Yes;57;Yes;Average;3;2;Private company;Unknown;Yes;City;Never;7000
+8556;462184;Male;No;19;No;Low;4;1;Government;No involvement;No;City;Never;7000
+8557;463888;Male;No;23;No;Low;3;1;Student;No involvement;No;City;Never;7000
+8558;461754;Male;Yes;65;No;High;2;4;Private company;Strong involvement;No;City;Never;8261
+8559;460113;Male;Yes;67;Yes;Average;2;4;Private company;Unknown;No;City;Never;8261
+8560;462495;Male;Yes;84;No;High;2;5;Self-employed;No involvement;No;City;Never;7000
+8561;459050;Female;No;19;No;Low;3;1;Private company;Some involvement;No;City;Never;7000
+8562;466268;Female;Yes;72;Yes;Average;3;3;Private company;Unknown;Yes;Country-side;Never;7000
+8563;461456;Female;No;40;No;Low;1;4;Student;No involvement;No;City;Never;7000
+8564;467777;Male;No;49;Yes;Low;1;5;Government;No involvement;No;City;Never;7000
+8565;460629;Female;Yes;36;Yes;Average;3;2;Private company;Strong involvement;Yes;City;Never;7000
+8566;461709;Male;No;33;Yes;Low;3;2;Private company;Unknown;Yes;Country-side;Never;7000
+8567;466376;Female;Yes;53;No;High;3;2;Nothing;No involvement;No;City;Never;9522
+8568;459781;Male;No;47;No;Low;1;5;Private company;Strong involvement;No;City;Never;8261
+8569;463394;Male;Yes;41;Yes;High;2;3;Student;No involvement;No;City;Never;7000
+8570;460452;Female;Yes;37;Yes;Average;2;2;Private company;Strong involvement;Yes;City;Intervention in Syria;7000
+8571;462100;Female;No;40;Yes;Low;1;4;Private company;Some involvement;Yes;City;Never;7000
+8572;460554;Male;Yes;38;No;Average;3;2;Private company;Unknown;Yes;City;Never;13305
+8573;465841;Female;No;52;Yes;Low;1;6;Private company;No involvement;No;City;Never;10783
+8574;466292;Female;Yes;82;No;High;2;5;Self-employed;No involvement;No;City;Never;8261
+8575;459479;Male;Yes;70;No;Low;2;4;Student;No involvement;No;City;Never;8261
+8576;467322;Female;Yes;46;Yes;Average;2;3;Private company;Unknown;Yes;City;Intervention in Syria;7000
+8577;467624;Male;Yes;35;No;Average;5;1;Private company;Strong involvement;No;City;Never;7000
+8578;464473;Female;Yes;60;Yes;Average;4;2;Private company;Unknown;No;City;Never;7000
+8579;462076;Male;Yes;75;Yes;Low;2;4;Self-employed;No involvement;No;City;Never;8261
+8580;465981;Male;No;28;No;Low;2;2;Private company;Unknown;No;City;Never;7000
+8581;464344;Female;Yes;58;Yes;Low;1;6;Private company;Unknown;No;City;Never;8261
+8582;467245;Female;No;38;No;Low;1;4;Government;No involvement;No;City;Never;7000
+8583;465181;Female;No;33;Yes;Low;1;4;Private company;Some involvement;Yes;Country-side;Never;17088
+8584;466837;Female;No;38;Yes;Low;4;1;Student;No involvement;Yes;City;Intervention in Libya;18349
+8585;466254;Male;No;40;Yes;Low;2;2;Private company;Strong involvement;Yes;City;Never;7000
+8586;461108;Male;No;21;No;Low;4;1;Private company;Some involvement;Yes;City;Never;8261
+8587;461464;Male;No;59;Yes;Low;3;2;Private company;Strong involvement;No;City;Never;7000
+8588;464593;Female;No;35;Yes;Low;4;1;Government;No involvement;Yes;City;Never;8261
+8589;462647;Female;Yes;56;No;Average;3;2;;;Yes;Country-side;Never;7000
+8590;465344;Female;Yes;71;Yes;High;2;4;Self-employed;No involvement;No;City;Never;7000
+8591;467351;Male;Yes;41;No;Average;2;3;Private company;Unknown;No;City;Never;17088
+8592;467712;Male;Yes;50;Yes;Average;4;2;;;Yes;City;Intervention in Iraq;8261
+8593;467412;Male;Yes;35;Yes;Average;4;1;Public company;No involvement;No;City;Never;14566
+8594;463972;Male;Yes;66;Yes;Low;4;2;Private company;Unknown;Yes;City;Never;7000
+8595;462441;Female;No;22;No;Low;4;1;Private company;Some involvement;No;City;Never;7000
+8596;466529;Female;Yes;28;Yes;Average;2;2;Government;No involvement;Yes;City;Never;7000
+8597;462009;Female;Yes;32;Yes;High;2;2;Private company;Some involvement;Yes;City;Never;17088
+8598;464125;Male;Yes;40;No;Average;2;2;Government;No involvement;Yes;City;Never;7000
+8599;463219;Male;Yes;50;No;Low;2;3;Private company;Strong involvement;No;City;Never;7000
+8600;463124;Male;Yes;31;No;Average;2;2;Private company;Unknown;No;City;Never;7000
+8601;462753;Male;Yes;28;No;Average;3;1;Public company;No involvement;No;City;Never;7000
+8602;460725;Male;Yes;41;Yes;High;2;3;Private company;Unknown;Yes;City;Never;7000
+8603;463558;Female;Yes;88;Yes;Average;2;5;Self-employed;No involvement;No;City;Never;8261
+8604;466347;Male;Yes;71;No;Low;3;3;Public company;No involvement;Yes;Country-side;Never;13305
+8605;462636;Female;Yes;36;No;Low;4;1;Student;No involvement;Yes;Country-side;Never;7000
+8606;463226;Female;Yes;38;Yes;Average;2;2;Public company;No involvement;No;City;Never;7000
+8607;467134;Female;Yes;33;No;Low;5;1;Private company;Some involvement;Yes;City;Intervention in Libya;7000
+8608;467297;Female;Yes;53;Yes;Average;3;2;Private company;Unknown;No;City;Never;8261
+8609;459335;Male;No;26;Yes;Low;3;1;Private company;Some involvement;Yes;City;Intervention in Syria;7000
+8610;462569;Female;No;32;No;Low;4;1;Government;No involvement;Yes;City;Never;15827
+8611;462094;Female;No;37;Yes;Low;1;4;Private company;Some involvement;No;City;Never;7000
+8612;463504;Male;No;26;Yes;Low;1;3;Private company;Some involvement;No;City;Never;7000
+8613;462744;Male;Yes;38;Yes;Average;4;1;Private company;Unknown;No;City;Never;10783
+8614;465627;Female;No;37;Yes;Low;1;4;Private company;Some involvement;No;City;Never;8261
+8615;466045;Female;No;38;No;Low;2;2;Private company;Strong involvement;No;City;Never;17088
+8616;460170;Male;Yes;68;No;Low;1;7;Private company;Unknown;No;City;Never;7000
+8617;466353;Female;Yes;38;Yes;Average;2;2;Private company;No involvement;No;City;Never;7000
+8618;464752;Female;Yes;46;;Low;1;5;Student;No involvement;Yes;Country-side;Never;7000
+8619;465204;Male;Yes;28;Yes;Low;2;2;Private company;Some involvement;No;City;Never;8261
+8620;462260;Male;Yes;74;Yes;Low;2;4;Self-employed;No involvement;No;City;Never;7000
+8621;466343;Male;No;30;Yes;Low;2;2;Government;No involvement;Yes;City;Never;7000
+8622;465007;Male;Yes;74;Yes;Low;1;8;Self-employed;No involvement;No;City;Never;8261
+8623;462241;Female;No;28;No;Low;4;1;Private company;Strong involvement;No;City;Never;8261
+8624;460742;Male;No;52;Yes;Low;3;2;Private company;Unknown;No;City;Never;7000
+8625;467161;Female;Yes;30;Yes;Low;2;2;Nothing;No involvement;No;City;Never;18349
+8626;466081;Female;Yes;25;Yes;Average;2;2;Private company;Unknown;Yes;Country-side;Never;17088
+8627;466863;Female;No;28;No;Low;1;3;Nothing;No involvement;No;City;Never;19610
+8628;467020;Male;Yes;80;Yes;High;3;3;Self-employed;No involvement;No;City;Never;7000
+8629;463596;Female;No;31;No;Low;4;1;Private company;Some involvement;No;City;Never;7000
+8630;460968;Male;Yes;30;No;Average;2;2;Government;No involvement;Yes;City;Never;20871
+8631;464359;Female;No;37;Yes;Low;3;2;Private company;Unknown;No;City;Never;7000
+8632;464145;Female;No;36;No;Low;4;1;Private company;No involvement;No;City;Never;24654
+8633;466783;Female;No;43;Yes;Low;6;1;Private company;Some involvement;Yes;City;Never;7000
+8634;459084;Male;Yes;47;No;High;2;3;Public company;No involvement;Yes;City;Intervention in Iraq;7000
+8635;467502;Female;No;26;No;Low;6;1;Private company;Some involvement;Yes;City;Intervention in Iraq;7000
+8636;464651;Female;Yes;26;No;Average;3;1;Government;No involvement;Yes;Country-side;Never;7000
+8637;461239;Female;No;40;Yes;Low;1;4;Private company;Strong involvement;No;City;Never;7000
+8638;461950;Female;No;40;Yes;Low;1;4;Private company;Some involvement;Yes;City;Never;8261
+8639;460909;Female;No;31;No;Low;2;2;Private company;Some involvement;No;City;Never;7000
+8640;467710;Female;No;37;Yes;Low;4;1;Private company;Unknown;No;City;Never;18349
+8641;463996;Female;No;29;No;Low;5;1;Private company;Some involvement;Yes;Country-side;Never;7000
+8642;466772;Male;Yes;58;Yes;Average;4;2;Private company;Strong involvement;No;City;Never;8261
+8643;465853;Female;Yes;33;Yes;Average;2;2;Private company;Some involvement;No;City;Never;7000
+8644;462358;Male;Yes;37;No;Average;2;2;Government;No involvement;No;City;Never;12044
+8645;464165;Female;No;55;No;Low;1;6;Private company;Strong involvement;No;City;Never;10783
+8646;460205;Male;Yes;55;Yes;Low;2;3;Private company;Unknown;No;City;Never;12044
+8647;466792;Female;Yes;82;No;Low;1;9;Self-employed;No involvement;No;City;Never;7000
+8648;461887;Female;No;89;Yes;Low;1;9;Self-employed;No involvement;No;City;Never;9522
+8649;466466;Female;;19;No;Low;5;1;Private company;Some involvement;Yes;City;Never;14566
+8650;467775;Female;No;41;Yes;Low;1;5;Private company;Unknown;Yes;City;Intervention in Iraq;7000
+8651;467747;Female;Yes;50;Yes;High;4;2;Private company;Unknown;No;City;Never;7000
+8652;466025;Female;No;50;No;Low;1;5;Private company;No involvement;Yes;City;Never;8261
+8653;463514;Male;Yes;63;Yes;Average;2;4;Private company;Strong involvement;No;City;Never;7000
+8654;461281;Male;No;23;No;Low;9;1;Private company;Some involvement;Yes;City;Never;12044
+8655;460790;Female;Yes;42;Yes;High;2;3;Private company;Unknown;Yes;City;Never;7000
+8656;463184;Female;Yes;60;Yes;Average;2;3;Private company;Unknown;No;City;Never;8261
+8657;465001;Male;Yes;75;Yes;High;2;4;Self-employed;No involvement;No;City;Never;8261
+8658;463944;Male;No;29;No;Low;5;1;Private company;Unknown;Yes;Country-side;Never;7000
+8659;463234;Female;No;22;No;Low;4;1;Private company;No involvement;No;City;Never;8261
+8660;466014;Female;Yes;47;No;High;2;3;Private company;No involvement;Yes;Country-side;Never;7000
+8661;460525;Male;Yes;30;Yes;Average;2;2;Private company;Strong involvement;Yes;City;Never;8261
+8662;467928;Male;Yes;35;Yes;Average;2;2;Private company;Unknown;No;City;Never;9522
+8663;464911;Male;Yes;56;Yes;Average;3;2;Private company;Unknown;Yes;Country-side;Never;7000
+8664;467663;Male;Yes;31;No;Average;2;2;Government;No involvement;No;City;Never;7000
+8665;460960;Male;Yes;48;Yes;Low;2;3;Private company;Strong involvement;Yes;City;Intervention in Iraq;14566
+8666;459585;Female;Yes;46;Yes;Average;4;2;Private company;Unknown;No;City;Never;7000
+8667;459071;Male;No;28;Yes;Low;4;1;Private company;Some involvement;No;City;Never;13305
+8668;462837;Female;No;25;No;Low;3;1;Private company;Some involvement;No;City;Never;24654
+8669;461028;Female;No;21;No;Low;4;1;Private company;Some involvement;Yes;Country-side;Never;14566
+8670;467302;Male;No;26;Yes;Low;4;1;Public company;No involvement;No;City;Never;18349
+8671;462923;Male;Yes;33;No;Average;2;2;Nothing;No involvement;No;City;Never;18349
+8672;459577;Male;Yes;82;Yes;Low;1;9;Self-employed;No involvement;No;City;Never;7000
+8673;467360;Male;Yes;51;Yes;Average;4;2;Private company;Unknown;No;City;Never;7000
+8674;464204;Female;Yes;39;Yes;High;2;2;Private company;Unknown;Yes;City;Intervention in Libya;9522
+8675;462924;Female;Yes;31;No;Average;2;2;Nothing;No involvement;No;City;Never;17088
+8676;463763;Male;Yes;36;Yes;Average;2;2;Private company;Unknown;No;City;Never;12044
+8677;463276;Male;Yes;42;No;Average;2;3;Public company;No involvement;Yes;City;Never;7000
+8678;463641;Female;No;33;Yes;Low;3;2;Student;No involvement;Yes;City;Intervention in Libya;8261
+8679;461618;Female;Yes;42;Yes;High;3;2;Private company;Unknown;No;City;Never;7000
+8680;460299;Male;Yes;56;Yes;Low;1;6;Private company;Unknown;No;City;Never;12044
+8681;462492;Male;Yes;36;No;Average;4;1;Private company;Unknown;Yes;City;Never;8261
+8682;466377;Male;Yes;62;Yes;Average;2;4;;;No;City;Never;17088
+8683;466440;Male;Yes;23;No;High;9;1;Public company;No involvement;No;City;Never;8261
+8684;462262;Male;No;27;No;Low;3;1;Private company;Some involvement;;;;8261
+8685;464662;Female;Yes;50;Yes;High;3;2;Private company;Unknown;Yes;Country-side;Never;8261
+8686;461194;Female;No;33;No;Low;8;1;Government;No involvement;Yes;Country-side;Never;8261
+8687;461980;Male;Yes;52;Yes;Low;3;2;Private company;Unknown;Yes;City;Never;9522
+8688;464443;Female;Yes;35;Yes;Average;2;2;Private company;Unknown;No;City;Never;8261
+8689;466315;Female;Yes;67;Yes;Low;1;7;Private company;No involvement;No;City;Never;8261
+8690;462705;Female;Yes;69;No;Average;2;4;Self-employed;No involvement;No;City;Never;7000
+8691;466152;Male;Yes;40;No;Low;1;4;Private company;No involvement;No;City;Never;17088
+8692;467562;Male;Yes;71;Yes;High;3;3;Public company;No involvement;No;City;Never;7000
+8693;465241;Male;No;23;No;Low;2;2;Private company;Some involvement;Yes;Country-side;Never;10783
+8694;462033;Male;No;32;Yes;Low;1;4;Private company;Strong involvement;No;City;Never;8261
+8695;459509;Male;No;30;Yes;Low;1;3;Private company;Some involvement;No;City;Never;8261
+8696;467725;Male;No;32;Yes;Low;2;2;Private company;Some involvement;No;City;Never;18349
+8697;461357;Male;No;28;Yes;Low;4;1;Private company;Some involvement;No;City;Never;7000
+8698;462462;Male;Yes;30;Yes;Average;3;1;Private company;Strong involvement;No;City;Never;7000
+8699;462679;Male;No;63;Yes;Low;1;7;Government;No involvement;No;City;Never;8261
+8700;463789;Female;Yes;53;Yes;Low;2;3;Private company;Unknown;No;City;Never;8261
+8701;465609;Female;No;21;No;Low;4;1;Private company;Some involvement;Yes;City;Never;8261
+8702;461742;Male;Yes;87;Yes;High;2;5;Public company;No involvement;No;City;Never;8261
+8703;467290;Female;No;23;No;Low;;;Private company;Some involvement;No;City;Never;7000
+8704;463440;Female;Yes;73;Yes;Average;3;3;Private company;Unknown;Yes;City;Intervention in Syria;7000
+8705;459403;Male;Yes;46;Yes;Average;4;2;Private company;Unknown;Yes;City;Intervention in Iraq;7000
+8706;463031;Female;Yes;38;Yes;Average;4;1;Private company;Unknown;No;City;Never;8261
+8707;464313;Male;Yes;30;No;Average;3;1;Nothing;No involvement;No;City;Never;8261
+8708;460124;Female;No;43;Yes;Low;3;2;Private company;Unknown;No;City;Never;8261
+8709;460738;Female;No;49;No;Low;;;Private company;No involvement;Yes;City;Intervention in Iraq;8261
+8710;460975;Male;Yes;86;;High;2;5;Self-employed;No involvement;No;City;Never;8261
+8711;462151;Female;No;35;Yes;Low;1;4;Private company;Unknown;No;City;Never;17088
+8712;463981;Female;No;25;Yes;Low;1;3;Private company;Unknown;;;;13305
+8713;460434;Male;;57;Yes;High;3;2;Private company;Unknown;No;City;Never;10783
+8714;460059;Female;No;48;No;Low;;;Private company;Strong involvement;Yes;Country-side;Never;9522
+8715;466269;Female;No;25;No;Low;4;1;Private company;Some involvement;Yes;City;Never;7000
+8716;460855;Male;Yes;45;Yes;Low;2;3;Private company;Unknown;No;City;Never;7000
+8717;461991;Male;No;23;No;Low;4;1;Government;No involvement;No;City;Never;7000
+8718;464518;Male;Yes;30;No;High;4;1;Public company;No involvement;No;City;Never;7000
+8719;467366;Male;No;42;Yes;Low;1;5;Private company;Unknown;Yes;Country-side;Never;7000
+8720;465103;Male;Yes;86;Yes;High;2;5;Self-employed;No involvement;No;City;Never;8261
+8721;465610;Female;No;42;Yes;Low;2;3;Private company;Unknown;No;City;Never;17088
+8722;461711;Female;No;35;Yes;Low;3;2;Private company;Unknown;Yes;City;Never;17088
+8723;463690;Female;No;28;No;Low;4;1;Private company;Some involvement;No;City;Never;15827
+8724;465521;Female;Yes;47;Yes;Average;2;3;Private company;Unknown;Yes;City;Intervention in Iraq;8261
+8725;467545;Male;Yes;53;Yes;Average;2;3;Private company;Unknown;No;City;Never;18349
+8726;466201;Male;Yes;42;Yes;Average;5;1;Government;No involvement;Yes;Country-side;Never;8261
+8727;467554;Female;No;28;Yes;Low;3;1;Private company;Some involvement;No;City;Never;8261
+8728;466725;Female;Yes;89;No;High;2;5;Self-employed;No involvement;No;City;Never;7000
+8729;460455;Female;Yes;28;Yes;Average;2;2;Nothing;No involvement;Yes;City;Never;18349
+8730;459402;Female;Yes;51;Yes;Average;4;2;Private company;Unknown;No;City;Never;8261
+8731;460303;Female;No;43;Yes;Low;1;5;Private company;Unknown;;;;9522
+8732;466036;Female;Yes;89;Yes;Low;;;Self-employed;No involvement;No;City;Never;8261
+8733;464363;Female;Yes;41;Yes;Low;1;5;Private company;Unknown;No;City;Never;18349
+8734;467776;Female;No;25;Yes;Low;4;1;Government;No involvement;No;City;Never;7000
+8735;460901;Male;No;22;No;Low;3;1;Government;No involvement;No;City;Never;17088
+8736;463671;Male;Yes;37;Yes;Average;3;2;Private company;Strong involvement;No;City;Never;7000
+8737;467419;Female;Yes;38;Yes;Low;1;4;Private company;Unknown;No;City;Never;12044
+8738;464298;Male;No;26;No;Low;1;3;Government;No involvement;No;City;Never;8261
+8739;465874;Female;No;26;Yes;Low;2;2;Private company;Unknown;No;City;Never;8261
+8740;459772;Female;Yes;69;Yes;Average;9;1;Private company;Unknown;Yes;City;Intervention in Libya;9522
+8741;465992;Male;Yes;53;Yes;Low;3;2;Private company;Strong involvement;No;City;Never;8261
+8742;467499;Male;Yes;40;Yes;Low;3;2;Private company;Unknown;No;City;Never;7000
+8743;466333;Female;Yes;41;Yes;Average;2;3;Private company;Unknown;No;City;Never;8261
+8744;464252;Male;Yes;35;Yes;Average;4;1;Private company;Unknown;No;City;Never;8261
+8745;460669;Male;;48;Yes;Low;2;3;Public company;No involvement;Yes;City;Intervention in Syria;7000
+8746;467867;Female;No;18;No;Low;4;1;Private company;Some involvement;Yes;Country-side;Never;7000
+8747;462038;Male;No;31;Yes;Low;4;1;Private company;Unknown;No;City;Never;12044
+8748;465232;Male;Yes;56;Yes;High;4;2;Public company;No involvement;No;City;Never;7000
+8749;459276;Female;No;20;No;Low;4;1;Private company;Some involvement;No;City;Never;7000
+8750;459215;Female;Yes;58;Yes;Low;3;2;Private company;Unknown;Yes;City;Never;7000
+8751;460397;Female;No;59;Yes;Low;1;6;Private company;Strong involvement;No;City;Never;8261
+8752;459907;Female;Yes;39;Yes;Average;2;2;Private company;Unknown;No;City;Never;17088
+8753;460484;Female;No;23;No;Low;7;1;Private company;Some involvement;Yes;City;Never;12044
+8754;462499;Female;;72;No;Average;2;4;Self-employed;No involvement;No;City;Never;17088
+8755;467769;Female;No;35;Yes;Low;1;4;Government;No involvement;Yes;City;Never;8261
+8756;465305;Male;Yes;66;No;Low;2;4;Public company;No involvement;No;City;Never;8261
+8757;466843;Female;No;38;No;Low;;;Nothing;No involvement;No;City;Never;23393
+8758;466452;Female;No;33;Yes;Low;3;2;Private company;No involvement;Yes;City;Intervention in Syria;7000
+8759;462062;Male;No;22;No;Low;3;1;Private company;Some involvement;Yes;City;Intervention in Iraq;7000
+8760;465797;Male;Yes;36;Yes;Average;2;2;Private company;Unknown;Yes;City;Never;8261
+8761;467330;Male;Yes;38;No;High;3;2;Public company;No involvement;No;City;Never;7000
+8762;464604;Male;Yes;32;No;Low;2;2;Private company;Strong involvement;Yes;Country-side;Never;13305
+8763;463668;Female;No;29;No;Low;6;1;Private company;No involvement;Yes;Country-side;Never;7000
+8764;461176;Female;Yes;66;No;Average;4;2;Private company;No involvement;Yes;City;Intervention in Libya;14566
+8765;460926;Male;Yes;50;Yes;Average;4;2;Private company;Unknown;Yes;Country-side;Never;8261
+8766;461284;Male;No;23;No;Low;4;1;Private company;Unknown;No;City;Never;8261
+8767;467438;Male;No;28;No;Low;3;1;Private company;Strong involvement;No;City;Never;14566
+8768;467521;Male;No;19;No;Low;3;1;Private company;Some involvement;No;City;Never;15827
+8769;464845;Male;Yes;30;No;Average;3;1;Private company;No involvement;Yes;Country-side;Never;8261
+8770;464121;Female;Yes;62;Yes;Low;1;7;Private company;No involvement;No;City;Never;8261
+8771;461654;Female;No;67;Yes;Low;1;7;Private company;Unknown;Yes;City;Intervention in Iraq;7000
+8772;465577;Male;No;26;No;Low;4;1;Private company;Some involvement;Yes;City;Never;7000
+8773;463823;Female;No;29;No;Low;4;1;Student;No involvement;No;City;Never;17088
+8774;465247;Male;No;18;No;Low;7;1;Private company;Some involvement;No;City;Never;14566
+8775;467899;Male;Yes;66;Yes;Average;2;4;Private company;Unknown;No;City;Never;8261
+8776;459461;Female;Yes;39;Yes;Low;1;4;Private company;Unknown;Yes;City;Intervention in Syria;7000
+8777;461070;Male;Yes;46;Yes;Low;3;2;Government;No involvement;Yes;City;Never;7000
+8778;466702;Male;Yes;62;;Low;1;7;Self-employed;No involvement;No;City;Never;7000
+8779;467175;Male;Yes;77;Yes;Low;1;8;Self-employed;No involvement;No;City;Never;7000
+8780;464220;Male;Yes;65;Yes;High;2;4;Public company;No involvement;No;City;Never;8261
+8781;467064;Male;Yes;36;No;Average;2;2;Government;No involvement;Yes;City;Intervention in Iraq;7000
+8782;459769;Male;No;42;Yes;Low;;;Student;No involvement;No;City;Never;8261
+8783;461661;Female;Yes;37;Yes;Average;2;2;Private company;Unknown;Yes;City;Never;15827
+8784;459838;Female;Yes;86;No;High;2;5;Self-employed;No involvement;No;City;Never;7000
+8785;461515;Male;Yes;26;No;Low;2;2;Private company;Unknown;No;City;Never;7000
+8786;459263;Female;No;32;No;Low;4;1;Private company;Some involvement;No;City;Never;17088
+8787;465010;Female;No;42;Yes;Low;3;2;Student;No involvement;No;City;Never;7000
+8788;461722;Male;No;27;No;Low;3;1;Government;No involvement;No;City;Never;8261
+8789;463413;Male;Yes;41;No;Average;2;3;Government;No involvement;Yes;Country-side;Never;8261
+8790;463254;Female;Yes;37;No;High;2;2;Public company;No involvement;Yes;City;Intervention in Syria;7000
+8791;466715;Male;Yes;72;Yes;High;4;2;Public company;No involvement;No;City;Never;8261
+8792;464269;Male;No;37;Yes;Low;;;Private company;Strong involvement;Yes;City;Intervention in Syria;7000
+8793;465809;Female;No;25;No;Low;7;1;Nothing;No involvement;Yes;Country-side;Never;8261
+8794;462305;Male;Yes;36;Yes;Average;5;1;Private company;Unknown;No;City;Never;7000
+8795;462995;Male;Yes;36;Yes;Average;5;1;Private company;Unknown;No;City;Never;7000
+8796;460875;Male;No;35;Yes;Low;3;2;Private company;Strong involvement;Yes;City;Never;7000
+8797;465574;Male;Yes;62;Yes;Average;3;3;Private company;Unknown;Yes;City;Never;8261
+8798;466294;Male;Yes;27;Yes;Low;5;1;Private company;Some involvement;Yes;Country-side;Never;7000
+8799;465966;Male;No;36;Yes;Low;1;4;Government;No involvement;No;City;Never;18349
+8800;466630;Male;No;29;No;Low;4;1;Private company;Some involvement;No;City;Never;7000
+8801;464653;Female;Yes;59;No;Average;4;2;Private company;Unknown;Yes;Country-side;Never;10783
+8802;464493;Female;Yes;66;Yes;Average;4;2;Self-employed;No involvement;Yes;City;Intervention in Libya;14566
+8803;462725;Male;Yes;77;Yes;High;2;4;Self-employed;No involvement;No;City;Never;7000
+8804;465548;Female;No;40;Yes;Low;4;1;Private company;Unknown;Yes;City;Never;7000
+8805;467405;Female;No;37;Yes;Low;1;4;Private company;Unknown;Yes;Country-side;Never;8261
+8806;466664;Female;Yes;47;Yes;Average;2;3;Government;No involvement;Yes;Country-side;Never;8261
+8807;459488;Male;Yes;47;No;Average;4;2;Private company;Unknown;No;City;Never;7000
+8808;461285;Male;No;20;No;Low;3;1;Private company;Some involvement;No;City;Never;7000
+8809;459948;Female;No;62;Yes;Low;1;7;Private company;No involvement;No;City;Never;7000
+8810;464120;Male;No;30;No;Low;3;1;Private company;Some involvement;No;City;Never;17088
+8811;466366;Male;No;18;No;Low;3;1;Private company;Some involvement;Yes;City;Never;7000
+8812;460194;Female;No;23;No;Low;2;2;Private company;Strong involvement;Yes;City;Never;7000
+8813;460827;Male;Yes;81;Yes;Low;1;9;Self-employed;No involvement;No;City;Never;18349
+8814;459217;Female;Yes;60;No;Average;3;2;Self-employed;No involvement;No;City;Never;8261
+8815;461228;Male;Yes;26;No;Low;6;1;Government;No involvement;No;City;Never;18349
+8816;465187;Female;Yes;39;No;Average;4;1;Government;No involvement;Yes;Country-side;Never;7000
+8817;467709;Female;Yes;37;Yes;Low;2;2;Private company;Unknown;No;City;Never;13305
+8818;467152;Male;Yes;43;No;Low;1;5;Private company;Unknown;No;City;Never;17088
+8819;459161;Male;Yes;51;Yes;High;5;2;Public company;No involvement;No;City;Never;10783
+8820;462535;Male;No;26;No;Low;3;1;Government;No involvement;No;City;Never;8261
+8821;463627;Female;No;25;Yes;Low;2;2;Student;No involvement;Yes;Country-side;Never;13305
+8822;464247;Male;Yes;59;No;Low;1;6;Private company;No involvement;No;City;Never;7000
+8823;462611;Male;Yes;39;No;High;7;1;Public company;No involvement;Yes;Country-side;Never;8261
+8824;466707;Female;Yes;48;Yes;Low;4;2;Nothing;No involvement;No;City;Never;8261
+8825;464753;Female;No;33;No;Low;5;1;Student;No involvement;Yes;Country-side;Never;7000
+8826;461100;Female;No;32;Yes;Low;3;2;Private company;Some involvement;Yes;City;Never;7000
+8827;466574;Male;Yes;59;Yes;Low;2;3;Private company;Unknown;No;City;Never;15827
+8828;460522;Female;Yes;29;No;Average;2;2;Nothing;No involvement;Yes;Country-side;Never;7000
+8829;466965;Female;No;42;Yes;Low;1;5;Nothing;No involvement;No;City;Never;7000
+8830;460695;Male;Yes;74;Yes;Low;1;8;Self-employed;No involvement;No;City;Never;8261
+8831;462778;Male;Yes;60;Yes;Low;;;Private company;Strong involvement;No;City;Never;7000
+8832;460649;Female;No;29;No;Low;1;3;Nothing;No involvement;Yes;Country-side;Never;17088
+8833;463291;Male;Yes;35;Yes;Average;4;1;Private company;No involvement;No;City;Never;13305
+8834;459029;Male;Yes;70;No;High;2;4;Public company;No involvement;No;City;Never;7000
+8835;461756;Female;Yes;35;Yes;Average;2;2;Private company;No involvement;Yes;Country-side;Never;7000
+8836;459990;Male;Yes;37;Yes;Average;2;2;Private company;Some involvement;No;City;Never;8261
+8837;463857;Male;Yes;56;No;High;4;2;Private company;Some involvement;Yes;City;Intervention in Iraq;7000
+8838;461397;Male;No;20;No;Low;4;1;Private company;Some involvement;No;City;Never;7000
+8839;460033;Female;;46;Yes;Low;3;2;Private company;Strong involvement;No;City;Never;14566
+8840;466951;Female;Yes;52;Yes;High;3;2;Private company;Unknown;No;City;Never;7000
+8841;461546;Female;Yes;72;No;Low;3;3;Self-employed;No involvement;No;City;Never;8261
+8842;463321;Male;No;22;No;Low;3;1;Private company;Some involvement;Yes;City;Intervention in Syria;8261
+8843;465946;Female;Yes;50;Yes;Low;2;3;;;Yes;City;Never;8261
+8844;459811;Female;Yes;48;Yes;High;3;2;Private company;Unknown;No;City;Never;8261
+8845;463948;Male;Yes;39;No;High;5;1;Public company;No involvement;No;City;Never;9522
+8846;465591;Male;Yes;65;No;Average;2;4;Private company;Unknown;Yes;Country-side;Never;7000
+8847;467338;Female;No;27;Yes;Low;6;1;Private company;Some involvement;No;City;Never;9522
+8848;467838;Male;Yes;60;Yes;Average;2;3;Private company;Unknown;No;City;Never;8261
+8849;466415;Male;Yes;71;No;Low;1;8;Student;No involvement;No;City;Never;8261
+8850;459570;Male;No;27;Yes;Low;3;1;Private company;Some involvement;No;City;Never;7000
+8851;465730;Male;Yes;43;Yes;High;3;2;Public company;No involvement;Yes;Country-side;Never;14566
+8852;463749;Male;No;23;No;Low;4;1;Private company;Some involvement;No;City;Never;8261
+8853;466467;Female;Yes;36;Yes;Average;3;2;Private company;Unknown;Yes;City;Never;8261
+8854;466358;Female;;28;No;Low;4;1;Private company;No involvement;No;City;Never;7000
+8855;461190;Female;No;31;No;Low;2;2;Private company;No involvement;No;City;Never;7000
+8856;462181;Female;No;32;Yes;Low;3;2;Private company;Some involvement;No;City;Never;17088
+8857;462641;Female;Yes;42;No;Average;;;;;Yes;Country-side;Never;7000
+8858;460404;Male;Yes;38;Yes;Low;7;1;Private company;Unknown;No;City;Never;13305
+8859;463828;Male;Yes;43;No;Average;2;3;Private company;No involvement;Yes;City;Intervention in Syria;7000
+8860;460573;Male;No;62;No;Low;1;7;Private company;Some involvement;Yes;City;Never;17088
+8861;463849;Female;Yes;35;No;Low;2;2;Private company;Unknown;No;City;Never;7000
+8862;467347;Female;No;32;No;Low;4;1;Private company;Strong involvement;No;City;Never;7000
+8863;459456;Female;No;65;No;Low;1;7;Self-employed;No involvement;No;City;Never;7000
+8864;466354;Male;No;22;No;Low;4;1;Private company;Some involvement;No;City;Never;7000
+8865;459098;Male;Yes;42;Yes;Low;3;2;Private company;Strong involvement;No;City;Never;7000
+8866;465421;Female;No;25;No;Low;1;3;Private company;No involvement;Yes;Country-side;Never;8261
+8867;461998;Male;Yes;52;Yes;Average;2;3;Private company;Unknown;No;City;Never;7000
+8868;464627;Male;Yes;37;Yes;Low;4;1;Private company;Unknown;Yes;City;Never;7000
+8869;464587;Female;Yes;49;Yes;Low;2;3;Private company;Unknown;Yes;City;Never;8261
+8870;463038;Male;Yes;63;Yes;High;5;2;Public company;No involvement;No;City;Never;7000
+8871;460918;Female;No;27;Yes;Low;8;1;Government;No involvement;No;City;Never;24654
+8872;466781;Male;Yes;35;Yes;Average;4;1;Private company;Unknown;Yes;City;Never;8261
+8873;467595;Female;No;26;Yes;Low;1;3;Private company;Some involvement;No;City;Never;7000
+8874;460038;Female;No;36;Yes;Low;5;1;Private company;No involvement;No;City;Never;18349
+8875;459560;Male;Yes;89;No;High;2;5;Self-employed;No involvement;No;City;Never;8261
+8876;460493;Male;No;42;Yes;Low;1;5;Private company;Strong involvement;Yes;City;Never;9522
+8877;465026;Female;No;31;No;Low;2;2;Government;No involvement;No;City;Never;8261
+8878;460823;Female;Yes;75;Yes;High;2;4;Self-employed;No involvement;No;City;Never;8261
+8879;465206;Male;Yes;47;Yes;Low;1;5;Private company;Unknown;No;City;Never;23393
+8880;464472;Female;No;27;Yes;Low;3;1;Private company;Unknown;No;City;Never;7000
+8881;466161;Male;Yes;46;No;Average;;;Private company;Unknown;No;City;Never;7000
+8882;463855;Female;Yes;40;Yes;Average;2;2;Private company;Unknown;No;City;Never;8261
+8883;464805;Male;Yes;35;No;Low;1;4;Government;No involvement;Yes;Country-side;Never;7000
+8884;467025;Female;No;25;No;Low;3;1;Private company;No involvement;No;City;Never;8261
+8885;466195;Male;No;19;No;Low;4;1;Private company;Some involvement;No;City;Never;8261
+8886;460715;Female;Yes;86;No;High;2;5;Self-employed;No involvement;No;City;Never;7000
+8887;459019;Male;Yes;45;No;High;3;2;Public company;No involvement;No;City;Never;19610
+8888;460843;Male;No;21;No;Low;4;1;Private company;Some involvement;No;City;Never;8261
+8889;463889;Female;No;29;Yes;Low;1;3;Nothing;No involvement;Yes;City;Intervention in Syria;7000
+8890;464444;Male;Yes;36;Yes;Average;2;2;Private company;Unknown;No;City;Never;17088
+8891;462927;Female;No;26;No;Low;2;2;Nothing;No involvement;No;City;Never;18349
+8892;459181;Male;Yes;58;No;High;3;2;Private company;Unknown;No;City;Never;7000
+8893;463263;Female;Yes;70;Yes;High;2;4;Private company;No involvement;No;City;Never;7000
+8894;459786;Male;Yes;57;No;High;3;2;Student;No involvement;No;City;Never;8261
+8895;464785;Male;Yes;35;No;Low;4;1;Government;No involvement;Yes;Country-side;Never;13305
+8896;461132;Male;Yes;68;Yes;Low;1;7;Private company;Unknown;No;City;Never;9522
+8897;464815;Male;Yes;22;No;High;9;1;Government;No involvement;Yes;Country-side;Never;9522
+8898;465458;Female;Yes;84;Yes;High;2;5;Private company;Unknown;No;City;Never;8261
+8899;466006;Female;Yes;49;Yes;Low;2;3;Private company;Unknown;;;;8261
+8900;463212;Male;No;28;Yes;Low;5;1;Private company;Some involvement;No;City;Never;7000
+8901;466275;Male;Yes;84;No;Low;;;Self-employed;No involvement;No;City;Never;7000
+8902;459807;Male;Yes;81;Yes;Low;1;9;Self-employed;No involvement;No;City;Never;8261
+8903;459468;Male;Yes;35;No;Average;3;2;Private company;Unknown;No;City;Never;18349
+8904;463978;Male;Yes;38;Yes;Average;3;2;Private company;Unknown;Yes;City;Never;8261
+8905;465632;Male;No;37;Yes;Low;7;1;Private company;Unknown;Yes;City;Intervention in Iraq;12044
+8906;459305;Male;Yes;29;No;High;2;2;Private company;Some involvement;No;City;Never;23393
+8907;461729;Female;Yes;41;Yes;Low;3;2;Student;No involvement;No;City;Never;7000
+8908;460087;Female;Yes;56;Yes;Average;2;3;Private company;Strong involvement;No;City;Never;7000
+8909;465255;Male;No;21;No;Low;5;1;Private company;Some involvement;No;City;Never;18349
+8910;463082;Male;No;32;Yes;Low;5;1;Private company;Some involvement;No;City;Never;18349
+8911;461035;Male;No;21;No;Low;;;;;Yes;City;Never;15827
+8912;467086;Female;Yes;83;Yes;Low;3;3;Self-employed;No involvement;No;City;Never;7000
+8913;465147;Male;No;29;Yes;Low;3;1;Private company;Some involvement;No;City;Never;9522
+8914;460506;Female;Yes;52;Yes;Low;3;2;Private company;No involvement;Yes;City;Never;7000
+8915;459168;Female;No;36;Yes;Low;2;2;Private company;Unknown;No;City;Never;13305
+8916;466565;Male;Yes;29;No;Average;2;2;Private company;Unknown;No;City;Never;14566
+8917;461844;Male;Yes;51;No;Average;4;2;Private company;Unknown;Yes;City;Intervention in Iraq;9522
+8918;464383;Female;Yes;81;Yes;Low;1;9;Self-employed;No involvement;No;City;Never;8261
+8919;462078;Female;Yes;61;No;Average;2;4;Private company;Unknown;Yes;City;Never;8261
+8920;461495;Male;Yes;35;Yes;Average;3;2;Private company;Unknown;No;City;Never;8261
+8921;459268;Female;No;33;No;Low;;;Nothing;No involvement;No;City;Never;15827
+8922;464362;Female;Yes;51;Yes;Low;1;6;Private company;Unknown;No;City;Never;8261
+8923;462285;Male;Yes;48;Yes;Low;2;3;Government;No involvement;;;;7000
+8924;459142;Female;Yes;89;Yes;High;3;3;Private company;Unknown;No;City;Never;7000
+8925;463848;Male;Yes;48;Yes;Average;4;2;Private company;Unknown;Yes;City;Intervention in Syria;8261
+8926;467250;Male;Yes;63;Yes;Low;2;4;Private company;Strong involvement;No;City;Never;14566
+8927;466075;Female;Yes;50;Yes;Average;4;2;Private company;No involvement;Yes;Country-side;Never;8261
+8928;458984;Male;Yes;39;Yes;Average;3;2;Private company;Unknown;No;City;Never;7000
+8929;466722;Male;Yes;35;No;High;3;2;Public company;No involvement;No;City;Never;8261
+8930;460758;Male;Yes;31;No;Average;2;2;Public company;No involvement;No;City;Never;18349
+8931;460768;Female;No;32;No;Low;4;1;Private company;No involvement;Yes;City;Intervention in Libya;18349
+8932;461491;Female;Yes;70;Yes;Average;2;4;Private company;Unknown;No;City;Never;17088
+8933;466758;Male;Yes;45;Yes;Low;1;5;Government;No involvement;No;City;Never;7000
+8934;463672;Male;No;32;Yes;Low;3;2;Private company;No involvement;No;City;Never;7000
+8935;460807;Male;No;29;No;Low;6;1;Private company;Some involvement;No;City;Never;8261
+8936;462681;Female;Yes;59;Yes;Average;2;3;Private company;Strong involvement;No;City;Never;15827
+8937;465256;Male;No;22;No;Low;5;1;Private company;Some involvement;Yes;City;Never;7000
+8938;466181;Male;Yes;46;Yes;Low;2;3;Private company;Strong involvement;Yes;City;Never;8261
+8939;466013;Male;No;22;No;Low;3;1;Private company;Some involvement;Yes;Country-side;Never;9522
+8940;462945;Male;Yes;51;Yes;Average;4;2;Private company;Unknown;No;City;Never;8261
+8941;464907;Male;;55;Yes;Average;2;3;Private company;No involvement;Yes;Country-side;Never;7000
+8942;466963;Male;No;63;No;Low;1;7;Private company;Strong involvement;No;City;Never;15827
+8943;467444;Female;Yes;40;Yes;Low;2;2;Private company;Unknown;No;City;Never;7000
+8944;467590;Male;No;25;Yes;Low;1;3;Private company;Unknown;No;City;Never;7000
+8945;463949;Male;Yes;51;No;High;4;2;Public company;No involvement;Yes;City;Intervention in Iraq;7000
+8946;465646;Female;No;40;Yes;Low;2;2;Private company;Unknown;No;City;Never;14566
+8947;467186;Male;Yes;38;Yes;Average;3;2;Private company;Strong involvement;Yes;City;Never;9522
+8948;463171;Female;Yes;36;No;High;3;2;Private company;Strong involvement;Yes;City;Never;8261
+8949;462556;Male;Yes;57;Yes;Average;7;1;Private company;Strong involvement;Yes;City;Intervention in Libya;7000
+8950;462332;Female;Yes;37;Yes;High;2;2;Private company;Unknown;Yes;City;Intervention in Iraq;8261
+8951;464918;Male;No;39;No;Low;1;4;Private company;Unknown;Yes;Country-side;Never;8261
+8952;461514;Male;No;31;No;Low;4;1;Private company;Some involvement;No;City;Never;8261
+8953;464568;Male;Yes;36;Yes;Average;2;2;Private company;Unknown;No;City;Never;17088
+8954;459624;Male;No;18;No;Low;5;1;Private company;Some involvement;Yes;Country-side;Never;7000
+8955;467210;Male;Yes;28;Yes;Average;2;2;Nothing;No involvement;No;City;Never;23393
+8956;464625;Female;No;48;Yes;Low;2;3;Private company;Unknown;No;City;Never;7000
+8957;460182;Female;Yes;43;Yes;Average;3;2;Private company;Unknown;No;City;Never;9522
+8958;459892;Female;Yes;50;Yes;Low;1;5;Private company;Unknown;No;City;Never;8261
+8959;463475;Female;Yes;36;Yes;Low;1;4;Government;No involvement;No;City;Never;7000
+8960;467548;Male;Yes;48;Yes;High;2;3;Private company;Unknown;No;City;Never;7000
+8961;462306;Male;Yes;79;No;High;2;4;Self-employed;No involvement;No;City;Never;17088
+8962;467407;Male;No;27;Yes;Low;3;1;Private company;Unknown;No;City;Never;15827
+8963;460868;Male;Yes;35;Yes;Average;2;2;Private company;Unknown;No;City;Never;8261
+8964;467201;Female;No;33;Yes;Low;5;1;Private company;No involvement;Yes;City;Intervention in Iraq;7000
+8965;460784;Male;No;32;Yes;Low;6;1;Private company;Some involvement;Yes;City;Intervention in Iraq;7000
+8966;466210;Female;Yes;60;Yes;High;4;2;Private company;Unknown;No;City;Never;8261
+8967;467093;Female;Yes;53;Yes;Average;2;3;Private company;Unknown;No;City;Never;17088
+8968;462860;Male;No;30;Yes;Low;5;1;Private company;Some involvement;No;City;Never;17088
+8969;463604;Male;No;23;No;Low;3;1;Private company;Some involvement;Yes;City;Never;9522
+8970;464430;Female;Yes;51;Yes;Average;2;3;Private company;No involvement;No;City;Never;14566
+8971;462654;Male;Yes;39;No;Average;6;1;Private company;Unknown;Yes;Country-side;Never;8261
+8972;464856;Female;No;42;Yes;Low;3;2;Private company;No involvement;Yes;Country-side;Never;17088
+8973;460425;Female;No;27;No;Low;3;1;Government;No involvement;Yes;City;Intervention in Iraq;7000
+8974;463188;Female;Yes;48;Yes;Low;2;3;Private company;Unknown;No;City;Never;9522
+8975;460295;Male;No;29;Yes;Low;3;1;Private company;Unknown;No;City;Never;18349
+8976;460537;Female;No;33;Yes;Low;3;2;Private company;Unknown;Yes;City;Never;7000
+8977;466544;Male;Yes;41;Yes;Average;3;2;Public company;No involvement;No;City;Never;8261
+8978;466940;Male;Yes;79;No;Low;1;8;Self-employed;No involvement;No;City;Never;7000
+8979;465638;Female;Yes;51;Yes;Low;;;Private company;Unknown;Yes;City;Never;7000
+8980;462080;Female;No;42;Yes;Low;1;5;Private company;Unknown;No;City;Never;17088
+8981;460950;Male;Yes;28;No;Low;5;1;Government;No involvement;Yes;City;Intervention in Syria;7000
+8982;462409;Female;Yes;26;No;Low;2;2;Private company;No involvement;No;City;Never;15827
+8983;465391;Female;Yes;72;Yes;High;2;4;Self-employed;No involvement;No;City;Never;7000
+8984;459707;Female;Yes;74;Yes;Low;;;Self-employed;No involvement;No;City;Never;7000
+8985;466625;Male;Yes;49;Yes;Average;2;3;Private company;Unknown;Yes;City;Intervention in Iraq;7000
+8986;466849;Female;No;27;Yes;Low;8;1;Private company;Unknown;Yes;Country-side;Never;7000
+8987;463221;Male;No;22;No;Low;3;1;Private company;Some involvement;No;City;Never;7000
+8988;459641;Female;Yes;58;Yes;Average;5;2;Private company;Unknown;No;City;Never;12044
+8989;462179;Female;No;31;Yes;Low;9;1;Student;No involvement;Yes;City;Intervention in Iraq;7000
+8990;459390;Female;No;41;No;Low;2;3;Private company;Unknown;No;City;Never;7000
+8991;459222;Female;Yes;68;Yes;Average;3;3;Private company;Unknown;No;City;Never;8261
+8992;462103;Female;Yes;53;No;High;2;3;Private company;Strong involvement;No;City;Never;18349
+8993;461504;Female;Yes;49;Yes;Low;2;3;Private company;Unknown;No;City;Never;18349
+8994;464557;Male;No;27;No;Low;4;1;Private company;Unknown;No;City;Never;17088
+8995;466246;Male;No;19;No;Low;4;1;Private company;Some involvement;Yes;City;Never;7000
+8996;461781;Male;Yes;57;Yes;Low;2;3;Private company;Unknown;No;City;Never;7000
+8997;465079;Male;Yes;75;Yes;Low;1;8;Self-employed;No involvement;No;City;Never;8261
+8998;465402;Male;No;31;No;Low;;;Private company;Some involvement;No;City;Never;7000
+8999;467106;Male;Yes;45;Yes;Average;3;2;Private company;Strong involvement;Yes;City;Never;12044
